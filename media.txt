@@ -814,6 +814,10 @@ Groundhog Day (1993) REMASTERED [1080p].srt
 Guillermo del Toros Pinocchio (2022) [1080p].mkv
 Gunpowder Milkshake (2021) [1080p].mkv
 Gunpowder Milkshake (2021) [1080p].nfo
+Guy Ritchies The Covenant (2023) [1080p] 2.srt
+Guy Ritchies The Covenant (2023) [1080p] 3.srt
+Guy Ritchies The Covenant (2023) [1080p].mp4
+Guy Ritchies The Covenant (2023) [1080p].srt
 Hall Pass (2011) [1080p].mp4
 Hall Pass (2011) [1080p].srt
 Halloween Kills (2021) [1080p].mkv
@@ -1104,6 +1108,9 @@ Outside the Wire (2021) [1080p].mkv
 Outside the Wire (2021) [1080p].nfo
 Over The Hedge (2006) [1080p].mp4
 Over The Hedge (2006) [1080p].srt
+Paint (2023) [1080p] 2.srt
+Paint (2023) [1080p].mp4
+Paint (2023) [1080p].srt
 Palmer (2021) [1080p].mp4
 Palmer (2021) [1080p].srt
 Panama (2022) [1080p].mkv
@@ -1327,6 +1334,9 @@ super troopers 2 (2018) [1080p].nfo
 super troopers 2 (2018) [1080p].sub
 Sweet Girl (2021) [1080p].mkv
 Sweet Girl (2021) [1080p].nfo
+Sweetwater (2023) [1080p] 2.srt
+Sweetwater (2023) [1080p].mp4
+Sweetwater (2023) [1080p].srt
 Talladega Nights The Ballad Of Ricky Bobby (2006) UNRATED [1080p].mp4
 Talladega Nights The Ballad Of Ricky Bobby (2006) UNRATED [1080p].mp4.srt
 Tangled (2010) PROPER [1080p].mp4
@@ -1367,6 +1377,8 @@ The Bad Guys (2022) [1080p].mkv
 The Batman (2022) [1080p].mkv
 The Benchwarmers (2006) [1080p].mp4
 The Benchwarmers (2006) [1080p].srt
+The Best Man (2023) [1080p].mp4
+The Best Man (2023) [1080p].srt
 The Big Lebowski (1998) REMASTERED [1080p].mp4
 The Big Lebowski (1998) REMASTERED [1080p].srt
 The Big Picture (1989) [1080p].mp4
@@ -8677,6 +8689,8 @@ Ted Lasso S03E07 [1080p].mkv
 Ted Lasso S03E07 [1080p].nfo
 Ted Lasso S03E08 [1080p].mkv
 Ted Lasso S03E08 [1080p].nfo
+Ted Lasso S03E09 [1080p].mkv
+Ted Lasso S03E09 [1080p].nfo
 Ted Lasso S01E01 [1080p].mkv
 Ted Lasso S01E02 [1080p].mkv
 Ted Lasso S01E03 [1080p].mkv

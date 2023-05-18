@@ -476,6 +476,7 @@ Black Sheep (1996) [1080p].mp4
 Blacklight (2022) [1080p].mkv
 Blade Runner Final Cut (1997) [720p].mp4
 Blade Runner 2049.avi
+Blades of Glory (2007) PROPER [1080p].mp4
 Bliss (2021) [1080p].jpg
 bliss.2021.1080p.web.h264-naisu.mkv
 Blonde (2022) [1080p].mkv
@@ -618,6 +619,7 @@ Honey We Shrunk Ourselves (1997) [1080p].mp4
 Hook (1991) REMASTERED [1080p].mp4
 Horrible Bosses (2011) EXTENDED [1080p].mp4
 Horrible Bosses 2 (2014) EXTENDED [1080p].mp4
+Hot Fuzz (2007) REMASTERED PROPER [1080p].mp4
 Hot Tub Time Machine (2010) [1080p].mp4
 Hot Tub Time Machine 2 (2015) UNRATED [1080p].idx
 Hot Tub Time Machine 2 (2015) UNRATED [1080p].mp4
@@ -654,6 +656,8 @@ Jumanji (1995) REMASTERED [1080p].mp4
 Jumanji The Next Level (2019) [1080p].mp4
 Jumanji Welcome To The Jungle [720p].mp4
 Jungle Cruise (2021) [1080p].mp4
+Kicking And Screaming (2005) [1080p].mp4
+Kicking And Screaming (1995) PROPER [1080p].mp4
 Kimi (2022) [1080p].mkv
 King Richard (2021) [1080p].mp4
 Kingdom Ashin of the North (2021) [1080p].mkv
@@ -794,7 +798,6 @@ Poker Face (2022) [1080p].mkv
 Pokémon Detective Pikachu (2019) [720p].mp4
 Pootie Tang (2001) [1080p].mp4
 Popstar Never Stop Never Stopping (2016) [1080p].mp4
-Prey (2022) [1080p].mkv
 Prisoners of the Ghostland (2021) [1080p].mkv
 Project Gemini (2022) [1080p].mkv
 Project Power (2020) [1080p].mkv
@@ -861,6 +864,7 @@ Shrek the Third (2007) [1080p].mp4
 Signs (2002) [1080p].mp4
 Silk Road (2021) [1080p].mp4
 Simulant (2023) [1080p].mp4
+Sisu (2022) [1080p].mkv
 Skylines (2020) [1080p].mkv
 Sleeping Beauty (1959) [1080p].mp4
 Sleepless in Seattle (1993) [1080p].mp4
@@ -891,6 +895,7 @@ Star Trek Beyond (2016) [1080p].jpg
 Star Trek Beyond (2016) [1080p].mkv
 Star Trek First Contact (1996) [1080p].mkv
 Star Trek Insurrection (1998) [1080p].mp4
+Stargate The Ark Of Truth (2008) [1080p].mkv
 Stealing Harvard (2002) [1080p].mp4
 Steel Magnolias (1989) [1080p].mp4
 Steel Magnolias (2012) [1080p].mp4
@@ -1052,6 +1057,7 @@ The Social Network (2010) [1080p].mp4
 The SpongeBob Movie Sponge on the Run (2020) [1080p].jpg
 The SpongeBob Movie Sponge on the Run (2020) [1080p].mkv
 The SpongeBob Movie Sponge on the Run (2020) [1080p].mp4
+The Super Mario Bros Movie (2023) [1080p].mkv
 The Sword in the Stone (1963) [1080p].mp4
 The Terminal (2004) [1080p].mp4
 The Thirteenth Floor (1999) [1080p].mp4
@@ -1068,12 +1074,14 @@ The Wolf of Wall Street (2013) [1080p].mp4
 The Woman in the Window (2021) [1080p].mkv
 The Woman King (2022) [1080p].mkv
 The Woodsman (2004) [1080p].mp4
+The Worlds End (2013) REMASTERED PROPER [1080p].mp4
 Thirteen Lives (2022) [1080p].mkv
 Thor Love and Thunder (2022) [1080p].mkv
 Those Who Wish Me Dead (2021) [1080p].mp4
 Three Thousand Years of Longing (2022) [1080p].mkv
 Thunder Force (2021) [1080p].mkv
 Ticket to Paradise (2022) [1080p].mkv
+To Catch A Killer (2023) [1080p].mkv
 To Kill A Mockingbird (1962) [1080p].mp4
 Tom and Jerry (2021) [1080p].mkv
 Top Gun (1986) REMASTERED [1080p].mp4
@@ -9499,6 +9507,10 @@ Porkys II The Next Day (1983) [1080p].idx
 Porkys II The Next Day (1983) [1080p].mp4
 Porkys Revenge (1985) [1080p].idx
 Porkys Revenge (1985) [1080p].mp4
+Aliens vs Predator Requiem (2007) UNRATED [1080p].mp4
+Predator (1987) PROPER NEW REMASTERED [1080p].mp4
+Predator 2 (1990) PROPER REMASTERED [1080p].mp4
+Prey (2022) [1080p].mkv
 Rambo 2008 Extended Cut [1080p].mp4
 Rambo First Blood 1982 REMASTERED [1080p].idx
 Rambo First Blood 1982 REMASTERED [1080p].mp4

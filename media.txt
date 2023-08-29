@@ -484,6 +484,7 @@ Bliss (2021) [1080p].jpg
 bliss.2021.1080p.web.h264-naisu.mkv
 Blonde (2022) [1080p].mkv
 Bloodshot (2020) [1080p].mp4
+Blue Beetle (2023) [1080p].mkv
 Bohemian Rhapsody (2018) [1080p].mp4
 Borat (2006) [1080p].mp4
 Born to Be Wild (1995) [1080p].mp4
@@ -612,10 +613,12 @@ Harold and Kumar Escape From Guantanamo Bay (2008) UNRATED [1080p].mp4
 Harold and Kumar Go To White Castle (2004) [1080p].mp4
 Harriet (2019).mp4
 Harriet (2019) [720p].mkv
+Heart of Stone (2023) [1080p].mkv
 Hellraiser (2022) [1080p].mkv
 Hercules (2014) EXTENDED [1080p].mp4
 Hey Arnold! The Jungle Movie (2017).mkv
 Hey Arnold - The Movie.mp4
+Hidden Strike (2023) [1080p].mkv
 Hocus Pocus (1993) [1080p].mp4
 Hocus Pocus 2 2022) [1080p].mkv
 Honest Thief (2020) [1080p].mkv
@@ -656,6 +659,7 @@ Jerry Seinfeld 23 Hours to Kill (2020) [1080p].jpg
 Jerry Seinfeld 23 Hours to Kill (2020) [1080p].mkv
 Joker (2019) [1080p].mp4
 Jolt (2021) [1080p].mkv
+Joy Ride (2023) [1080p].mkv
 Judas and the Black Messiah (2021) [1080p].jpg
 Judas and the Black Messiah (2021) [1080p].mkv
 Jumanji (1995) REMASTERED [1080p].idx
@@ -709,6 +713,7 @@ Matilda (1996) [1080p].mp4
 Maverick (1994) [720p].mkv
 Mean Girls (2004) [1080p].mp4
 Meet the Robinsons (2007) [1080p].mp4
+Meg 2 The Trench (2023) [1080p].mkv
 Memento (2000) REMASTERED [1080p].mp4
 Memory (2022) [1080p].mkv
 Men (2022) [1080p].mkv
@@ -1225,6 +1230,8 @@ Zootopia (2016) [720p].mkv
 86 - S01E09.mkv
 86 - S01E10.mkv
 86 - S01E11.mkv
+Ahsoka S01E01 Part One [1080p].mkv
+Ahsoka S01E02 Part Two [1080p].mkv
 Altered Carbon S01E01 Out of the Past [720p].mkv
 Altered Carbon S01E02 Fallen Angel [720p].mkv
 Altered Carbon S01E03 In a Lonely Place [720p].mkv
@@ -4030,6 +4037,12 @@ Game of Thrones S07E07 [720p].mkv
 game of thrones s08e01 repack [1080p].mkv
 Game Of Thrones S08E02.mkv
 game of thrones s08e03 [720p].mkv
+Good.Omens S02E01 [1080p].mkv
+Good.Omens S02E02 [1080p].mkv
+Good.Omens S02E03 [1080p].mkv
+Good.Omens S02E04 [1080p].mkv
+Good.Omens S02E05 [1080p].mkv
+Good.Omens S02E06 [1080p].mkv
 Good Omens S01E01 [1080p].mp4
 Good Omens S01E02 [1080p].mp4
 Good Omens S01E03 [1080p].mp4

@@ -240,6 +240,7 @@ Impulse S01E07 He Said She Said.mkv
 Impulse S01E08 Awakening.mkv
 Impulse S01E09 They Know Not What They Do.mkv
 Impulse S01E10 New Beginnings.mkv
+Krapopolis S01E01 [1080p].mkv
 Krypton S01E01.mkv
 Krypton S01E02.mp4
 Legion S02E01.mkv
@@ -452,6 +453,7 @@ Antitrust (2001) [1080p].mp4
 Antlers (2021) [1080p].mkv
 Apex (2021) [1080p].mkv
 Apollo 13 (1995) REMASTERED [1080p].mp4
+Army of Darkness (1992).mp4
 Army of the Dead (2021) [1080p].mkv
 Army of Thieves (2021) [1080p].mkv
 Asteroid City (2023) [1080p].mkv
@@ -462,6 +464,7 @@ Avatar The Way of Water (2022) [1080p].mp4
 Babylon (2022) [1080p].mp4
 Bambi (1942) [1080p].mp4
 Barbarian (2022) [1080p].mkv
+Barbie (2023) [1080p].mkv
 Batman Soul of the Dragon (2021) [1080p].mkv
 Batman The Long Halloween Part 2 (2021) [1080p].mkv
 Beast (2022) [1080p].mkv
@@ -492,6 +495,7 @@ Borat (2006) [1080p].mp4
 Born to Be Wild (1995) [1080p].mp4
 Boss Level (2020) [1080p].mkv
 Boston Strangler (2023) [1080p].mkv
+Bottoms (2023) [1080p].mkv
 Breach (2020) [1080p].mkv
 Bridge of Spies (2015) [1080p].mp4
 Brother Bear (2003) [1080p].mp4
@@ -558,10 +562,12 @@ Encanto (2021) [1080p].mkv
 Encounter (2021) [1080p].mkv
 Enemy Of The State (1998) [1080p].mp4
 Enola Holmes 2 (2022) [1080p].mkv
+Escape From New York (1981) [1080p].mp4
 Eternal Sunshine Of The Spotless Mind (2004) [1080p].mp4
 EuroTrip (2004) UNRATED [1080p].mp4
 Everyone Says I Love You (1996) [1080p].mkv
 Everything Everywhere All At Once (2022) [1080p].mkv
+Evil Dead II (1987) [1080p].mp4
 Ex Machina (2015) [1080p].mp4
 Extraction (2020) [720p].mkv
 Extraction 2 (2023) [1080p].mp4
@@ -605,6 +611,8 @@ Gold (2022) [1080p].mkv
 Gone Girl (2014) [720p].mp4
 Grandmas Boy (2006) UNRATED [1080p].mp4
 Green Lantern (2011) [1080p].mp4
+Gremlins (1984) [1080p].mp4
+Gremlins 2 The New Batch (1990) [1080p].mp4
 Groundhog Day (1993) REMASTERED [1080p].mp4
 Guillermo del Toros Pinocchio (2022) [1080p].mkv
 Gunpowder Milkshake (2021) [1080p].mkv
@@ -793,6 +801,7 @@ Nine Days (2020) [1080p].mp4
 No Exit (2022) [1080p].mkv
 No Hard Feelings (2023) [1080p].mkv
 No Man of God (2021) [1080p].mkv
+No One Will Save You (2023) [1080p].mkv
 No Time To Die (2021) [1080p].mp4
 Nobody (2021) [1080p].mkv
 Nope (2022) [1080p].mkv
@@ -934,6 +943,7 @@ Spiderhead (2022) [1080p].mkv
 Spiral From the Book of Saw (2021) [1080p].mp4
 Spirited (2022) [1080p].mkv
 Spirited Away (2001) [1080p].mp4
+Spy Kids Armageddon (2023) [1080p].mkv
 Star Trek (2009) [1080p].mp4
 Star Trek Beyond (2016) [1080p].idx
 Star Trek Beyond (2016) [1080p].jpg
@@ -1062,6 +1072,7 @@ The New Guy (2002) [1080p].mkv
 The Nice Guys (2016) [720p].mp4
 The Northman (2022) [1080p].mkv
 The Notebook (2004) [1080p].mp4
+The Nun 2 (2023) [1080p].mkv
 The Old Way (2023) [1080p].mkv
 The Other Guys (2010) EXTENDED [1080p].mp4
 The Outfit (2022) [1080p].mkv
@@ -1077,6 +1088,7 @@ The Protege (2021) [1080p].mkv
 The Punisher (2004) EXTENDED CUT [1080p].mp4
 The Rescuers (1977) [1080p].mp4
 The Rescuers Down Under 91990) [1080p].mp4
+The Retirement Plan (2023) [1080p].mkv
 The Road To El Dorado (2000) [1080p].mp4
 Robin Hood (1973) [1080p].mp4
 Semi Pro UNRATED (2008) [720p].mp4
@@ -2595,6 +2607,16 @@ Cobra Kai S04E07 Minefields [1080p].mkv
 Cobra Kai S04E08 Party Time [1080p].mkv
 Cobra Kai S04E09 The Fall [1080p].mkv
 Cobra Kai S04E10 The Rise [1080p].mkv
+Cobra Kai S05E01 Long Long Way From Home [1080p].mkv
+Cobra Kai S05E02 Mole [1080p].mkv
+Cobra Kai S05E03 Playing With Fire [1080p].mkv
+Cobra Kai S05E04 Downward Spiral [1080p].mkv
+Cobra Kai S05E05 Extreme Measures [1080p].mkv
+Cobra Kai S05E06 Ouroboros [1080p].mkv
+Cobra Kai S05E07 Bad Eggs [1080p].mkv
+Cobra Kai S05E08 Taikai [1080P].mkv
+Cobra Kai S05E09 Survivors [1080p].mkv
+Cobra Kai S05E10 Head of the Snake [1080p].mkv
 Community S01E01 [1080p].mkv
 Community S01E02 [1080p].mkv
 Community S01E03 [1080p].mkv

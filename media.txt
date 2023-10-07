@@ -240,7 +240,6 @@ Impulse S01E07 He Said She Said.mkv
 Impulse S01E08 Awakening.mkv
 Impulse S01E09 They Know Not What They Do.mkv
 Impulse S01E10 New Beginnings.mkv
-Krapopolis S01E01 [1080p].mkv
 Krypton S01E01.mkv
 Krypton S01E02.mp4
 Legion S02E01.mkv
@@ -1273,6 +1272,10 @@ Ahsoka S01E01 Part One [1080p].mkv
 Ahsoka S01E02 Part Two [1080p].mkv
 Ahsoka S01E03 [1080p].mkv
 Ahsoka S01E04 [1080p].mkv
+Ahsoka S01E05  [1080p].mkv
+Ahsoka S01E06 [1080p].mkv
+Ahsoka S01E07 [1080p].mkv
+Ahsoka S01E08 [1080p].mkv
 Altered Carbon S01E01 Out of the Past [720p].mkv
 Altered Carbon S01E02 Fallen Angel [720p].mkv
 Altered Carbon S01E03 In a Lonely Place [720p].mkv
@@ -5136,6 +5139,7 @@ King Of The Hill S13E21.mkv
 King Of The Hill S13E22.mkv
 King Of The Hill S13E23.mkv
 King Of The Hill S13E24.mkv
+Krapopolis S01E01 [1080p].mkv
 letterkenny s06e01.mkv
 letterkenny s06e02.mkv
 letterkenny s06e03.mkv

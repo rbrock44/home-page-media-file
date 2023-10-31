@@ -577,6 +577,7 @@ Father Stu (2022) [1080p].mkv
 Ferris Buellers Day Off (1986) [1080p].mp4
 Fight Club (1999) [1080p].mp4
 Finch (2021) [1080p].mkv
+Five Nights at Freddys (2023) [1080p].mkv
 Flipper (1996) [720p].mp4
 Following (1998) CHRONO [1080p].mp4
 Foolproof (2003) PROPER [1080p].mp4
@@ -5269,7 +5270,10 @@ Loki S01E03 [1080p].mkv
 Loki S01E04 [1080p].mkv
 Loki S01E05 [1080p].mkv
 Loki S01E06 For All Time Always [1080p].mkv
+Loki S02E01 [1080p].mkv
+Loki S02E02 [1080p].mkv
 loki s02e03 1080p.mkv
+loki s02e04 [1080p].mkv
 Mad Men S01E01 [720p].mkv
 Mad Men S01E02 [720p].mkv
 Mad Men S01E03 [720p].mkv
@@ -6635,6 +6639,7 @@ Rick and Morty S06E09 [1080p].mkv
 Rick and Morty S06E10 [1080p].mkv
 Rick and Morty S07E01 [1080p].mkv
 Rick and Morty S07E02 [1080p].mkv
+rick and morty s07e03 [1080p].mkv
 Rick and Morty S01E01 Pilot (Uncensored) (1920x1080) [Phr0stY].mkv
 Rick and Morty S01E02 Lawnmower Dog (Uncensored) (1920x1080) [Phr0stY].mkv
 Rick and Morty S01E03 Anatomy Park (Uncensored) (1920x1080) [Phr0stY].mkv
@@ -10491,8 +10496,6 @@ The episode introduction to Season 1 episodes [episode1].mp3
 The introduction to Ed, Edd n' Eddy [eds theme].mp3
 The song of Yeshmiyek sung by Rolf at Christmas [yeshmiyek].mp3
 Theme song from Night of the Living Ed game [livinged].mp3
-Loki S02E01 [1080p].mkv
-Loki S02E02 Breaking Brad 4k to 1080p DSNP WEBrip x265 DDP5.1 D0ct0rLew[SEV].mkv
 Mr.Robot.S02E01E02.BDRip.X264-REWARD.idx
 Mr.Robot.S02E03.BDRip.x264-REWARD.idx
 Mr.Robot.S02E04.BDRip.X264-REWARD.idx

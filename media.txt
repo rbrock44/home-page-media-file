@@ -408,7 +408,7 @@ Ralph Breaks the Internet (2018) [1080p].mp4
 47 Ronin (2013) [1080p].mp4
 48 Hrs (1982) [1080p].mp4
 6 Underground (2019) [720p].mp4
-65.2023.1080p.WEBRip.x264-RARBG.mp4
+65 (2023) [1080p].mp4
 8-Bit Christmas (2021) [1080p].mkv
 A Beautiful Day in the Neighborhood (2019) [1080p].idx
 A Beautiful Day in the Neighborhood (2019) [1080p].mp4
@@ -488,7 +488,7 @@ Big Trouble in Little China (1986) [720p].mp4
 Bill & Ted's Bogus Journey [1080p].mp4
 Bill and Ted Face the Music (2020) [1080p].mkv
 Bill And Ted's Excellent Adventure (1989) [720p].mp4
-Black.Adam.2022.1080p.MA.WEBRip.DDP5.1.Atmos.x264-SMURF.mkv
+Black Adam (2022) [1080p].mkv
 Black Sheep (1996) [1080p].mp4
 Black Swan 2010 [1080p].mkv
 Blacklight (2022) [1080p].mkv
@@ -900,7 +900,7 @@ Robin Hood (2010) UNRATED REMASTERED PROPER [1080p].mp4
 Rogue Agent (2022) [1080p].mkv
 Role Models (2008) [1080p].mp4
 Rubikon (2022) [1080p].mkv
-Rumble.2021.1080p.WEBRip.x264-RARBG.mp4
+Rumble (2021) [1080p].mp4
 Runaway Bride (1999) [1080p].mp4
 Savages (2012) UNRATED [1080p].mp4
 Saving Private Ryan (1998) [1080p].mp4
@@ -1852,16 +1852,16 @@ BEEF S01E07 [1080p].mkv
 BEEF S01E08 [1080p].mkv
 BEEF S01E09 [1080p].mkv
 BEEF S01E10 [1080p].mkv
-better call saul s01e01 [720p].mkv
-better call saul s01e02 [720p].mkv
-better call saul s01e03 [720p].mkv
-better call saul s01e04 [720p].mkv
-better call saul s01e05 [720p].mkv
-better call saul s01e06 [720p].mkv
-better call saul s01e07 [720p].mkv
-better call saul s01e08 [720p].mkv
-better call saul s01e09 [720p].mkv
-better call saul s01e10 [720p].mkv
+Better Call Saul S01E01 [720p].mkv
+Better Call Saul S01E02 [720p].mkv
+Better Call Saul S01E03 [720p].mkv
+Better Call Saul S01E04 [720p].mkv
+Better Call Saul S01E05 [720p].mkv
+Better Call Saul S01E06 [720p].mkv
+Better Call Saul S01E07 [720p].mkv
+Better Call Saul S01E08 [720p].mkv
+Better Call Saul S01E09 [720p].mkv
+Better Call Saul S01E10 [720p].mkv
 Better Call Saul S02E01 [720p].mkv
 Better Call Saul S02E02 [720p].mkv
 Better Call Saul S02E03 [720p].mkv
@@ -2440,7 +2440,7 @@ Buffy 6xEX Behind_the_Scenes_of_Once_More_With_Feeling.mkv
 Buffy 6xEX Buffy.mkv
 Buffy 6xEX Fan_Meeting.mkv
 Buffy 6xEX Karaoke Walk Through the Fire.mkv
-Buffy 6xEX Karaoke We're_Together I'll_Never_Tell (x264).mkv
+Buffy 6xEX Karaoke We're_Together I'll_Never_Tell.mkv
 Buffy 6xEX Karaoke.mkv
 Buffy 6xEX Outtakes.mkv
 Buffy 6xEX Season_6_Overview_Life_is_the_Big Bad.mkv
@@ -4765,6 +4765,7 @@ Invincible (2021) S01E07 [1080p].mkv
 Invincible (2021) S01E08 [1080p].mkv
 Invincible (2021) S02E01 [1080p].mkv
 Invincible 2021 S02E02 [1080p].mkv
+invincible 2021s2e03 [1080p].mkv
 Its Always Sunny in Philadelphia S01E01 The Gang Gets Racist [480p].mkv
 Its Always Sunny in Philadelphia S01E02 Charlie Wants an Abortion [480p].mkv
 Its Always Sunny in Philadelphia S01E03 Underage Drinking A National Concern [480p].mkv
@@ -6687,9 +6688,9 @@ Rick and Morty S03E07.mp4
 Rick and Morty S03E08.mp4
 Rick and Morty S03E09.mp4
 Rick and Morty S03E10.mp4
-rick and morty s04e01 [1080p].mkv
-rick and morty s04e02 [1080p].mkv
-rick and morty s04e03 [1080p].mkv
+Rick and Morty S04E01 [1080p].mkv
+Rick and Morty S04E02 [1080p].mkv
+Rick and Morty S04E03 [1080p].mkv
 Rick and Morty S04E04 Claw and Hoarder Special Ricktims Morty.mkv
 Rick and Morty S04E05 [1080p].mkv
 Rick and Morty S04E06 [1080p].mkv
@@ -6717,9 +6718,10 @@ Rick and Morty S06E07 [1080p].mkv
 Rick and Morty S06E08 [1080p].mkv
 Rick and Morty S06E09 [1080p].mkv
 Rick and Morty S06E10 [1080p].mkv
+Rick and  Morty S07E05 [1080p].mkv
 Rick and Morty S07E01 [1080p].mkv
 Rick and Morty S07E02 [1080p].mkv
-rick and morty s07e03 [1080p].mkv
+Rick and Morty s07e03 [1080p].mkv
 Rick and Morty S07E04 [1080p].mkv
 Rick and Morty S01E01 Pilot (Uncensored) (1920x1080) [Phr0stY].mkv
 Rick and Morty S01E02 Lawnmower Dog (Uncensored) (1920x1080) [Phr0stY].mkv
@@ -7295,10 +7297,10 @@ sherlock s01e00 [1080p].mkv
 sherlock s01e01 [1080p].mkv
 sherlock s01e02 [1080p].mkv
 sherlock s01e03 [1080p].mkv
+Sherlock S02 extras [1080p].mkv
 Sherlock S02E01 [1080p].mkv
 Sherlock S02E02 [1080p].mkv
 Sherlock S02E03 [1080p].mkv
-sherlock.s02.extras.1080p.bluray.x264-shortbrehd.mkv
 sherlock s03 extras fans villans and speculation [1080p].mkv
 sherlock s03 extras shooting sherlock [1080p].mkv
 sherlock s03 extras the fall [1080p].mkv
@@ -8701,6 +8703,7 @@ The Last Kingdom [S03E07].mkv
 The Last Kingdom [S03E08].mkv
 The Last Kingdom [S03E09].mkv
 The Last Kingdom [S03E10].mkv
+The Last Kingdom S04E01 [1080p].mkv
 The Last Kingdom S04E02 [1080p].mkv
 The Last Kingdom S04E03 [1080p].mkv
 The Last Kingdom S04E04 [1080p].mkv
@@ -8710,7 +8713,6 @@ The Last Kingdom S04E07 [1080p].mkv
 The Last Kingdom S04E08 [1080p].mkv
 The Last Kingdom S04E09 [1080p].mkv
 The Last Kingdom S04E10 [1080p].mkv
-The.Last.Kingdom.S04E01.1080p.WEB.x264-GHOSTS.mkv
 The Last of Us S01E01 [1080p].mkv
 The Last of Us S01E02 [1080p].mkv
 The Last of Us S01E03 [1080p].mkv
@@ -10266,36 +10268,6 @@ ED.mkv
 OP.mkv
 ED.mkv
 OP.mkv
-better.call.saul.s01e01.720p.bluray.x264-reward.idx
-better.call.saul.s01e02.720p.bluray.x264-reward.idx
-better.call.saul.s01e03.720p.bluray.x264-reward.idx
-better.call.saul.s01e04.720p.bluray.x264-reward.idx
-better.call.saul.s01e05.720p.bluray.x264-reward.idx
-better.call.saul.s01e06.720p.bluray.x264-reward.idx
-better.call.saul.s01e07.720p.bluray.x264-reward.idx
-better.call.saul.s01e08.720p.bluray.x264-reward.idx
-better.call.saul.s01e09.720p.bluray.x264-reward.idx
-better.call.saul.s01e10.720p.bluray.x264-reward.idx
-Better.Call.Saul.S03E01.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E02.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E03.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E04.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E05.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E06.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E07.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E08.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E09.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S03E10.720p.BluRay.X264-REWARD.idx
-Better.Call.Saul.S04E01.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E02.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E03.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E04.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E05.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E06.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E07.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E08.REPACK.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E09.REPACK.720p.BluRay.x264-DEMAND.idx
-Better.Call.Saul.S04E10.REPACK.720p.BluRay.x264-DEMAND.idx
 Burn Notice Season 1 Extras - Action Montage.avi
 Burn Notice Season 1 Extras - Auditions.avi
 Burn Notice Season 1 Extras - Character Montage.avi
@@ -10329,14 +10301,6 @@ Burn Notice Season 2 Bonus - Gag Reel.avi
 Burn Notice Season 2 Bonus - NIXin' It Up On Burn Notice.avi
 Burn Notice Season 3 Extras - San Diego Comic-con international.avi
 Burn Notice Season 3 Extras - Smash, Crash, Boom - Inside the Burn Notice Stunt Unit.avi
-castlevania.s02e01.1080p.bluray.x264-turmoil.idx
-castlevania.s02e02.1080p.bluray.x264-turmoil.idx
-castlevania.s02e03.1080p.bluray.x264-turmoil.idx
-castlevania.s02e04.1080p.bluray.x264-turmoil.idx
-castlevania.s02e05.1080p.bluray.x264-turmoil.idx
-castlevania.s02e06.1080p.bluray.x264-turmoil.idx
-castlevania.s02e07.1080p.bluray.x264-turmoil.idx
-castlevania.s02e08.1080p.bluray.x264-turmoil.idx
 Community S01E01 [1080p].idx
 Community S01E02 [1080p].idx
 Community S01E03 [1080p].idx
@@ -10602,17 +10566,6 @@ The episode introduction to Season 1 episodes [episode1].mp3
 The introduction to Ed, Edd n' Eddy [eds theme].mp3
 The song of Yeshmiyek sung by Rolf at Christmas [yeshmiyek].mp3
 Theme song from Night of the Living Ed game [livinged].mp3
-Mr.Robot.S02E01E02.BDRip.X264-REWARD.idx
-Mr.Robot.S02E03.BDRip.x264-REWARD.idx
-Mr.Robot.S02E04.BDRip.X264-REWARD.idx
-Mr.Robot.S02E05.BDRip.X264-REWARD.idx
-Mr.Robot.S02E06.BDRip.X264-REWARD.idx
-Mr.Robot.S02E07.BDRip.X264-REWARD.idx
-Mr.Robot.S02E08.BDRip.X264-REWARD.idx
-Mr.Robot.S02E09.BDRip.X264-REWARD.idx
-Mr.Robot.S02E10.BDRip.X264-REWARD.idx
-Mr.Robot.S02E11.BDRip.X264-REWARD.idx
-Mr.Robot.S02E12.BDRip.X264-REWARD.idx
 Gekijouben Overlord 1 - Fushisha no Ou.mkv
 Gekijouben Overlord 2 - Shikkoku no Eiyuu.mkv
 Overlord NCED.mkv
@@ -10734,15 +10687,6 @@ Magicians US S03E11.idx
 Magicians US S03E12.idx
 Magicians US S03E13.idx
 01 - Renaissance (Main Title Theme).mp3
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40057.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40188.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40207.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40252.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40376.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40426.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40596.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40647.jpg
-The.Hobbit.Battle.Of.The.Five.Armies.2014.1080p.WEBRip.x264-tomcat12[ETRG].mp40665.jpg
 X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.0.png
 X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.2.png
 X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.3.png

@@ -1214,7 +1214,7 @@ Zombieland Double Tap (2019) [720p].avi
 Zootopia (2016) [720p].mkv
 12th Fail (2023) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
-310.to.Yuma.2007.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+310 to Yuma (2007) [1080p].mp4
 Air Force One Down (2024) [1080p].mkv
 Angels in the Outfield (1994) [720p].mkv
 Argylle (2024) [1080p].mkv
@@ -1230,9 +1230,10 @@ Evan Almighty (2007) [1080p].mkv
 Freuds Last Session (2023) [1080p].mkv
 Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One  [1080p].mp4
+H P Lovecrafts The Old Ones (2024) [1080p].mkv
 Land of Bad (2024) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
-Madame.Web.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+Madame Web (2024) [1080p].mkv
 Marmalade (2024) [1080p].mkv
 Me Myself And Irene (2000) [1080p].mkv
 Mean Girls (2024) [1080p].mkv
@@ -9891,19 +9892,19 @@ Weeds - S05E10 - Perro.mkv
 Weeds - S05E11 - Ducks and.mkv
 Weeds - S05E12.mkv
 Weeds - S05E13 - All About.mkv
-Weeds - S06E01 - Thwack [YIFY].mkv
-Weeds - S06E02 - Felling and Swamping [YIFY].mkv
-Weeds - S06E03 - A Yippity Sippity [YIFY].mkv
-Weeds - S06E04 - Bliss [YIFY].mkv
-Weeds - S06E05 - Boomerang [YIFY].mkv
-Weeds - S06E06 - A Shoe For A Shoe [YIFY].mkv
-Weeds - S06E07 - Pinwheels and Whirligigs [YIFY].mkv
-Weeds - S06E08 - Gentle Puppies [YIFY].mkv
-Weeds - S06E09 - To Moscow and Quickly [YIFY].mkv
-Weeds - S06E10 - Dearborn-Again [YIFY].mkv
-Weeds - S06E11 - Viking Pride [YIFY].mkv
-Weeds - S06E12 - Fran Tarkenton [YIFY].mkv
-Weeds - S06E13 - Theoretical Love Is Not Dead [YIFY].mkv
+Weeds - S06E01 - Thwack.mkv
+Weeds - S06E02 - Felling and Swamping.mkv
+Weeds - S06E03 - A Yippity Sippity.mkv
+Weeds - S06E04 - Bliss.mkv
+Weeds - S06E05 - Boomerang.mkv
+Weeds - S06E06 - A Shoe For A Shoe.mkv
+Weeds - S06E07 - Pinwheels and Whirligigs.mkv
+Weeds - S06E08 - Gentle Puppies.mkv
+Weeds - S06E09 - To Moscow and Quickly.mkv
+Weeds - S06E10 - Dearborn-Again.mkv
+Weeds - S06E11 - Viking Pride.mkv
+Weeds - S06E12 - Fran Tarkenton.mkv
+Weeds - S06E13 - Theoretical Love Is Not Dead.mkv
 Weeds S07E01 - Bags.avi
 Weeds S07E02 - From Trauma Cometh Something.avi
 Weeds S07E03 - Game-Played.avi
@@ -10591,6 +10592,7 @@ Shogun (2024) S01E01 [1080p].mkv
 Shogun (2024) S01E02 [1080p].mkv
 Shogun (2024) S01E03 [1080p].mkv
 Shogun (2024) S01E04 [1080p].mkv
+Shogun 2024 S01E05 [1080p].mkv
 Succession (2018) S01E01 Celebration [1080p].mkv
 Succession (2018) S01E02 Shit Show at the Fuck Factory [1080p].mkv
 Succession (2018) S01E03 Lifeboats [1080p].mkv

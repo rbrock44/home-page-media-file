@@ -1212,6 +1212,7 @@ Zeros and Ones (2021) [1080p].mkv
 Zombieland (2009) [1080p].mp4
 Zombieland Double Tap (2019) [720p].avi
 Zootopia (2016) [720p].mkv
+X-Men 97 S01E01 [1080p].mkv
 12th Fail (2023) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
@@ -1224,6 +1225,7 @@ Bruce Almighty (2003) [1080p].mp4
 Dallas Buyers Club (2013) [1080p].mp4
 Damsel (2024) [1080p].mkv
 Dave Chappelle The Dreamer (2023) [1080p].mkv
+Deep Impact (1998) [1080p].mp4
 Dune Part Two (2024) [1080p].mkv
 Eileen (2023) [1080p].mkv
 Evan Almighty (2007) [1080p].mkv
@@ -1251,6 +1253,7 @@ Stranger in the Woods (2024) [1080p].mkv
 The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
 The Iron Claw (2023) [1080p].mkv
+The Painter (2024) [1080p] .mp4
 The Shaft (2001) [1080p].mp4
 Tropic Thunder (2008) [1080p].mp4
 We Are Marshall (2006).mkv
@@ -5003,10 +5006,11 @@ Invincible (2021) S01E06 [1080p].mkv
 Invincible (2021) S01E07 [1080p].mkv
 Invincible (2021) S01E08 [1080p].mkv
 Invincible (2021) S02E01 [1080p].mkv
-Invincible 2021 S02E02 [1080p].mkv
-Invincible 2021 S02E04 [1080p].mkv
-Invincible 2021 S02E05 [1080p].mkv
-invincible 2021s2e03 [1080p].mkv
+Invincible (2021) S02E02 [1080p].mkv
+Invincible (2021) S02E04 [1080p].mkv
+Invincible (2021) S02E05 [1080p].mkv
+Invincible (2021) S02E06 [1080p].mkv
+Invincible (2021) S2E03 [1080p].mkv
 Its Always Sunny in Philadelphia S01E01 The Gang Gets Racist [480p].mkv
 Its Always Sunny in Philadelphia S01E02 Charlie Wants an Abortion [480p].mkv
 Its Always Sunny in Philadelphia S01E03 Underage Drinking A National Concern [480p].mkv

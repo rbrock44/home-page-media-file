@@ -1230,6 +1230,7 @@ Dune Part Two (2024) [1080p].mkv
 Eileen (2023) [1080p].mkv
 Evan Almighty (2007) [1080p].mkv
 Freuds Last Session (2023) [1080p].mkv
+Ghostbusters Frozen Empire (2024) [1080p].mp4
 Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One  [1080p].mp4
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
@@ -1242,9 +1243,11 @@ Mean Girls (2024) [1080p].mkv
 Megamind vs the Doom Syndicate (2024) [1080p].mkv
 Millers Girl (2024) [1080p].mkv
 Next Goal Wins (2023) [1080p].mkv
+Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
 Ricky Gervais Armageddon (2023) [1080p].mkv
 Ricky Gervais Armageddon (2023) [1080p].sfv
+Road House (2024) [1080p].mkv
 Role Play (2024) [1080p].mkv
 Sense and Sensibility (2024) [1080p].mkv
 South Park Not Suitable For Children (2023) [1080p].mkv
@@ -1252,6 +1255,7 @@ Spaceman (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
+The Forbidden Kingdom (2008) [1080p] .mp4
 The Iron Claw (2023) [1080p].mkv
 The Painter (2024) [1080p] .mp4
 The Shaft (2001) [1080p].mp4
@@ -10597,6 +10601,7 @@ Shogun (2024) S01E01 [1080p].mkv
 Shogun (2024) S01E02 [1080p].mkv
 Shogun (2024) S01E03 [1080p].mkv
 Shogun (2024) S01E04 [1080p].mkv
+Shogun (2024) S01E06 [1080p].mkv
 Shogun 2024 S01E05 [1080p].mkv
 Succession (2018) S01E01 Celebration [1080p].mkv
 Succession (2018) S01E02 Shit Show at the Fuck Factory [1080p].mkv

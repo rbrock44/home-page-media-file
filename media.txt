@@ -1218,6 +1218,7 @@ X-Men 97 S01E01 [1080p].mkv
 12th Fail (2023) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
+Abigail (2024) [1080p] .mp4
 Air Force One Down (2024) [1080p].mkv
 Angels in the Outfield (1994) [720p].mkv
 Argylle (2024) [1080p].mkv
@@ -1233,6 +1234,7 @@ Deep Impact (1998) [1080p].mp4
 Dune Part Two (2024) [1080p].mkv
 Eileen (2023) [1080p].mkv
 Evan Almighty (2007) [1080p].mkv
+Force Of Nature The Dry 2 (2024) [1080p].mkv
 Freuds Last Session (2023) [1080p].mkv
 Ghostbusters Frozen Empire (2024) [1080p].mp4
 Godzilla Minus One (2023) [1080p].mkv
@@ -1243,10 +1245,12 @@ Land of Bad (2024) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
 Madame Web (2024) [1080p].mkv
 Marmalade (2024) [1080p].mkv
+Mars Express (2023) [1080p] .mp4
 Me Myself And Irene (2000) [1080p].mkv
 Mean Girls (2024) [1080p].mkv
 Megamind vs the Doom Syndicate (2024) [1080p].mkv
 Millers Girl (2024) [1080p].mkv
+Mother Of The Bride (2024) [1080p] .mp4
 Next Goal Wins (2023) [1080p].mkv
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
@@ -1263,7 +1267,9 @@ The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
 The Forbidden Kingdom (2008) [1080p] .mp4
 The Iron Claw (2023) [1080p].mkv
+The Ministry Of Ungentlemanly Warfare (2024) [1080p] .mp4
 The Painter (2024) [1080p] .mp4
+The Roast Of Tom Brady (2024) [1080p] .mp4
 The Shaft (2001) [1080p].mp4
 Tropic Thunder (2008) [1080p].mp4
 We Are Marshall (2006).mkv
@@ -4828,6 +4834,8 @@ Greys Anatomy S20E02 [1080p].mkv
 Greys Anatomy S20E03 [1080p].mkv
 Greys Anatomy S20E04 [1080p].mkv
 Greys Anatomy S20E05 [1080p].mkv
+Greys Anatomy S20E06 [1080p].mkv
+Greys Anatomy S20E07 [1080p].mkv
 Halo S01E01 [1080p].mkv
 Halo S01E02 Unbound [1080p].mkv
 Halo S01E03 [1080p].mkv

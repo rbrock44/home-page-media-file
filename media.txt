@@ -1225,6 +1225,7 @@ Argylle (2024) [1080p].mkv
 Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] .mp4
 Bleeding Love (2023) [1080p].mp4
 Bruce Almighty (2003) [1080p].mp4
+Challengers (2024 ) [1080p].mkv
 Civil War (2024) [1080p].mkv
 Dallas Buyers Club (2013) [1080p].mp4
 Damaged (2024) [1080p].mkv
@@ -1240,7 +1241,9 @@ Ghostbusters Frozen Empire (2024) [1080p].mp4
 Godzilla Minus One (2023) [1080p] .mp4
 Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One  [1080p].mp4
+Godzilla X Kong The New Empire (2024) [2160p] .mkv
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
+IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
 Land of Bad (2024) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
@@ -1263,6 +1266,7 @@ Role Play (2024) [1080p].mkv
 Sense and Sensibility (2024) [1080p].mkv
 South Park Not Suitable For Children (2023) [1080p].mkv
 Spaceman (2024) [1080p].mkv
+Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
@@ -4837,6 +4841,7 @@ Greys Anatomy S20E04 [1080p].mkv
 Greys Anatomy S20E05 [1080p].mkv
 Greys Anatomy S20E06 [1080p].mkv
 Greys Anatomy S20E07 [1080p].mkv
+Greys Anatomy S20E08 [1080p].mkv
 Halo S01E01 [1080p].mkv
 Halo S01E02 Unbound [1080p].mkv
 Halo S01E03 [1080p].mkv

@@ -1218,10 +1218,12 @@ WrestleMania 40 Sunday.mp4
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
 Abigail (2024) [1080p] .mp4
+Agent Recon (2024) [1080p] .mp4
 Air Force One Down (2024) [1080p].mkv
 Angels in the Outfield (1994) [720p].mkv
 Argylle (2024) [1080p].mkv
 Atlas (2024) [1080p] .mp4
+Bad Boys Ride Or Die (2024) [1080p].mp4
 Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] .mp4
 Bleeding Love (2023) [1080p].mp4
 Bruce Almighty (2003) [1080p].mp4
@@ -1238,6 +1240,7 @@ Eileen (2023) [1080p].mkv
 Evan Almighty (2007) [1080p].mkv
 Force Of Nature The Dry 2 (2024) [1080p].mkv
 Freuds Last Session (2023) [1080p].mkv
+Furiosa A Mad Max Saga (2024) [1080].mp4
 Ghostbusters Frozen Empire (2024) [1080p].mp4
 Godzilla Minus One (2023) [1080p] .mp4
 Godzilla Minus One (2023) [1080p].mkv
@@ -1280,6 +1283,7 @@ The Painter (2024) [1080p] .mp4
 The Roast Of Tom Brady (2024) [1080p] .mp4
 The Shaft (2001) [1080p].mp4
 The Wonderful Story Of Henry Sugar And Three More (2024) [1080p] .mp4
+Trigger Warning (2024) [1080p] .mp4
 Tropic Thunder (2008) [1080p].mp4
 We Are Marshall (2006).mkv
 Wish (2023) [1080p].mkv
@@ -4974,6 +4978,7 @@ House of the Dragon S01E08 The Lord of the Tides [1080p].mkv
 House of the Dragon S01E09 [1080p].mkv
 House Of The Dragon S01E10 [1080p].mkv
 House Of The Dragon S02E01  [1080p].mkv
+House of the Dragon S02E02 [1080p].mkv
 Humans S01E01 [1080p].mkv
 Humans S01E02 [1080p].mkv
 Humans S01E03 [1080p].mkv
@@ -10804,6 +10809,8 @@ Suits S07E16 [1080p].mp4
 The Acolyte S01E01 [1080p].mkv
 The Acolyte S01E02 [1080p].mkv
 The Acolyte S01E03 [1080p].mkv
+The Acolyte S01E04 [1080p].mkv
+The Acolyte S01E05 [1080p].mkv
 X-Men 97 S01E01 To Me My X-Men [1080p].mkv
 X-Men 97 S01E01 [1080p].mkv
 X-Men 97 S01E02 Mutant Liberation Begins [1080p].mkv

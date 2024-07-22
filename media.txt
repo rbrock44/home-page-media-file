@@ -1249,6 +1249,7 @@ Godzilla X Kong The New Empire (2024) [2160p] .mkv
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
 IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
+Justice League Crisis On Infinite Earths Part Three (2024) [1080p] .mp4
 Land of Bad (2024) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
 Madame Web (2024) [1080p].mkv
@@ -1259,6 +1260,7 @@ Mean Girls (2024) [1080p].mkv
 Megamind vs the Doom Syndicate (2024) [1080p].mkv
 Millers Girl (2024) [1080p].mkv
 Mother Of The Bride (2024) [1080p] .mp4
+My Spy The Eternal City (2024) [1080p] .mp4
 Next Goal Wins (2023) [1080p].mkv
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
@@ -1278,6 +1280,7 @@ The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
 The Forbidden Kingdom (2008) [1080p] .mp4
 The Iron Claw (2023) [1080p].mkv
+The King Tide (2024) [1080p].mkv
 The Ministry Of Ungentlemanly Warfare (2024) [1080p] .mp4
 The Painter (2024) [1080p] .mp4
 The Roast Of Tom Brady (2024) [1080p] .mp4
@@ -2720,6 +2723,11 @@ Cobra Kai S05E07 Bad Eggs [1080p].mkv
 Cobra Kai S05E08 Taikai [1080P].mkv
 Cobra Kai S05E09 Survivors [1080p].mkv
 Cobra Kai S05E10 Head of the Snake [1080p].mkv
+Cobra Kai S06E01 [1080p].mkv
+Cobra Kai S06E02 [1080p].mkv
+Cobra Kai S06E03 [1080p].mkv
+Cobra Kai S06E04 [1080p].mkv
+Cobra Kai S06E05 [1080p].mkv
 Community S01E01 [1080p].mkv
 Community S01E02 [1080p].mkv
 Community S01E03 [1080p].mkv
@@ -8939,6 +8947,7 @@ The Boys S04E03 [1080p].mkv
 The Boys S04E04 [1080p].mkv
 The Boys S04E05 [1080p].mkv
 The Boys S04E06 [1080p].mkv
+The Boys S04E08 [1080p].mkv
 The.Boys.S04E07.[1080p].mkv
 The Falcon and the Winter Soldier S01E01 [1080p].mkv
 The Falcon and the Winter Soldier S01E02 [1080p].mkv
@@ -10826,6 +10835,8 @@ The Acolyte S01E03 [1080p].mkv
 The Acolyte S01E04 [1080p].mkv
 The Acolyte S01E05 [1080p].mkv
 The Acolyte S01E06 [1080p].mkv
+The Acolyte S01E07 [1080p].mkv
+The Acolyte S01E08 [1080p].mkv
 X-Men 97 S01E01 To Me My X-Men [1080p].mkv
 X-Men 97 S01E01 [1080p].mkv
 X-Men 97 S01E02 Mutant Liberation Begins [1080p].mkv

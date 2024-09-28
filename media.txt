@@ -1214,6 +1214,7 @@ Zombieland Double Tap (2019) [720p].avi
 Zootopia (2016) [720p].mkv
 Agatha All Along S01E01 [1080p].mkv
 Agatha All Along S01E02 [1080p].mkv.mkv
+Agatha All Along S01E03 [1080p].mkv
 Only Murders in the Building  S01E04 The Sting [1080p].mkv
 Only Murders in the Building S01E01 True Crime [1080p].mkv
 Only Murders in the Building S01E02 Who Is Tim Kono [1080p].mkv
@@ -1238,12 +1239,14 @@ WrestleMania 40 Sunday.mp4
 12th Fail (2023) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
+Addicted To Love (1997) [1080p] .mp4
 Abigail (2024) [1080p] .mp4
 Agent Recon (2024) [1080p] .mp4
 Air Force One Down (2024) [1080p].mkv
 Angels Fallen Warriors Of Peace (2024) [1080p] .mp4
 Angels in the Outfield (1994) [720p].mkv
 Argylle (2024) [1080p].mkv
+As Good as It Gets (1997) [1080p].mp4
 Atlas (2024) [1080p] .mp4
 Austin Powers Goldmember (2002) [1080p].mp4
 Austin Powers International Man of Mystery (1997) [1080p].mp4
@@ -1255,6 +1258,7 @@ Blink Twice (2024) [1080p] .mp4
 Borderlands (2024) [1080p].mp4
 Bruce Almighty (2003) [1080p].mp4
 Challengers (2024 ) [1080p].mkv
+Chasing Amy (1997) [1080p].mp4
 Civil War (2024) [1080p].mkv
 Colin Jost Michael Che Present New York After Dark (2024) [1080p].mp4
 Dallas Buyers Club (2013) [1080p].mp4
@@ -1268,6 +1272,7 @@ Die Hart 2 Die Harter (2024) [1080p].mkv
 Dune Part Two (2024) [1080p].mkv
 Eileen (2023) [1080p].mkv
 Evan Almighty (2007) [1080p].mkv
+Fools Rush In (1997) [1080p] .mp4
 Force Of Nature The Dry 2 (2024) [1080p].mkv
 Freuds Last Session (2023) [1080p].mkv
 Furiosa A Mad Max Saga (2024) [1080].mp4
@@ -1276,14 +1281,17 @@ Godzilla Minus One (2023) [1080p] .mp4
 Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One  [1080p].mp4
 Godzilla X Kong The New Empire (2024) [2160p] .mkv
+Grosse Pointe Blank (1997) [1080p].mp4
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
-It Ends With Us (2024) [1080p] .mp4
 IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
+It Ends With Us (2024) [1080p] .mp4
 Justice League Crisis On Infinite Earths Part Three (2024) [1080p] .mp4
 Kung Fu Games (2024) [720p] .mp4
 Land of Bad (2024) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
+Love Jones (1997) [1080p] .jpg
+Love Jones (1997) [1080p] .mp4
 Madame Web (2024) [1080p].mkv
 Marmalade (2024) [1080p].mkv
 Mars Express (2023) [1080p] .mp4
@@ -1310,6 +1318,10 @@ Spaceman (2024) [1080p].mkv
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
+IndexerVolumeGuid
+WPSettings.dat
+The Full Monty (1997) [1080p] .mp4
+The Beautician And The Beast (1997) [1080p] .mp4
 The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
 The Fall Guy (2024)  [4K] .mkv
@@ -1324,11 +1336,13 @@ The Shaft (2001) [1080p].mp4
 The Thicket 2024 [720p].mkv
 The Watchers (2024) [1080p] .mp4
 The Wonderful Story Of Henry Sugar And Three More (2024) [1080p] .mp4
+Trapped In The Rocky Mountains (2024) [1080p].mp4
 Trigger Warning (2024) [1080p] .mp4
 Tropic Thunder (2008) [1080p].mp4
 Twister (1996) [1080p].mkv
 Twisters (2024) [1080p].mp4
 Uglies (2024) [1080p] .mp4
+Wolfs (2024) [1080p] .mp4
 We Are Marshall (2006).mkv
 Wish (2023) [1080p].mkv
 1000 Ways to Die S01E01 Life Will Kill You.avi
@@ -10889,6 +10903,10 @@ X-Men 97 S01E07 Bright Eyes [1080p].mkv
 X-Men 97 S01E08 Tolerance Is Extinction Part 1 [1080p].mkv
 X-Men 97 S01E09 Tolerance Is Exctinction Part 2 [1080p].mkv
 X-Men 97 S01E10 Tolerance is Extinction Part 3 [1080p].mkv
+Blade (1998) [1080p].mp4
+Blade II (2002)[1080p].mp4
+Blade Trinity (2004)[1080p].mp4
+Chkdsk20240702022552.log
 NCED 01.mkv
 NCED 02.mkv
 NCOP 01.mkv

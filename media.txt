@@ -1215,6 +1215,7 @@ Zootopia (2016) [720p].mkv
 Agatha All Along S01E01 [1080p].mkv
 Agatha All Along S01E02 [1080p].mkv.mkv
 Agatha All Along S01E03 [1080p].mkv
+Agatha All Along S01E04 [1080p].mkv
 Nobody Wants This S01E01 Pilot [1080p].mkv
 Nobody Wants This S01E02 A Shiksa Walks Into a Temple [1080p].mkv
 Nobody Wants This S01E03 Either Aura [1080p].mkv
@@ -1249,8 +1250,8 @@ WrestleMania 40 Sunday.mp4
 12th Fail (2023) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
-Addicted To Love (1997) [1080p] .mp4
 Abigail (2024) [1080p] .mp4
+Addicted To Love (1997) [1080p] .mp4
 Agent Recon (2024) [1080p] .mp4
 Air Force One Down (2024) [1080p].mkv
 Angels Fallen Warriors Of Peace (2024) [1080p] .mp4
@@ -1275,8 +1276,7 @@ Dallas Buyers Club (2013) [1080p].mp4
 Damaged (2024) [1080p].mkv
 Damsel (2024) [1080p].mkv
 Dave Chappelle The Dreamer (2023) [1080p].mkv
-Deadpool & Wolverine (2024) [1080p] (copy).mkv
-Deadpool & Wolverine (2024) [1080p].mkv
+Deadpool and Wolverine (2024)[1080p].mkv
 Deep Impact (1998) [1080p].mp4
 Die Hart 2 Die Harter (2024) [1080p].mkv
 Dune Part Two (2024) [1080p].mkv
@@ -1299,9 +1299,9 @@ It Ends With Us (2024) [1080p] .mp4
 Justice League Crisis On Infinite Earths Part Three (2024) [1080p] .mp4
 Kung Fu Games (2024) [720p] .mp4
 Land of Bad (2024) [1080p].mp4
-Love, Rosie (2014) [1080p].mp4
 Love Jones (1997) [1080p] .jpg
 Love Jones (1997) [1080p] .mp4
+Love, Rosie (2014) [1080p].mp4
 Madame Web (2024) [1080p].mkv
 Marmalade (2024) [1080p].mkv
 Mars Express (2023) [1080p] .mp4
@@ -1331,12 +1331,12 @@ Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
 IndexerVolumeGuid
 WPSettings.dat
-The Full Monty (1997) [1080p] .mp4
 The Beautician And The Beast (1997) [1080p] .mp4
 The Beekeeper (2024) [1080p].mkv
 The Bricklayer (2023) [1080p].mkv
 The Fall Guy (2024)  [4K] .mkv
 The Forbidden Kingdom (2008) [1080p] .mp4
+The Full Monty (1997) [1080p] .mp4
 The Greatest of All Time 2024 GOAT 2024 [1080p x264 WEB-DL Hindi + Tamil AAC 2.0 HC-ESUB] xDark [MoviesUp]_1.mkv
 vlc-record-2024-09-28-08h54m12s-The Greatest of All Time 2024 GOAT 2024 [1080p x264 WEB-DL Hindi + Tamil AAC 2.0 HC-ESUB] xDark [MoviesUp]_1.mkv-.mp4
 The Iron Claw (2023) [1080p].mkv
@@ -1355,9 +1355,9 @@ Tropic Thunder (2008) [1080p].mp4
 Twister (1996) [1080p].mkv
 Twisters (2024) [1080p].mp4
 Uglies (2024) [1080p] .mp4
-Wolfs (2024) [1080p] .mp4
 We Are Marshall (2006).mkv
 Wish (2023) [1080p].mkv
+Wolfs (2024) [1080p] .mp4
 1000 Ways to Die S01E01 Life Will Kill You.avi
 1000 Ways to Die S01E02 Hard Lives, Easy Deaths.avi
 1000 Ways to Die S02E01 Unforced Errors.avi
@@ -11238,6 +11238,9 @@ Animatic -Why Must I be a Crustacean in Love.mkv
 Futurama Game Trailer.mkv
 An X-Mas Message From David X. Cohen.mkv
 Deleted Scenes.mkv
+Greys.Anatomy.S21E01.1080p.HEVC.x265-MeGusta.mkv
+[TGx]Downloaded from torrentgalaxy.to .txt
+Greys Anatomy S21E02 Take Me to Church [1080p].mkv
 Gekijouben Overlord 1 - Fushisha no Ou.mkv
 Gekijouben Overlord 2 - Shikkoku no Eiyuu.mkv
 Overlord NCED.mkv

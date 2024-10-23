@@ -1217,6 +1217,7 @@ Agatha All Along S01E02 [1080p].mkv.mkv
 Agatha All Along S01E03 [1080p].mkv
 Agatha All Along S01E04 [1080p].mkv
 Agatha all along S01E05 [1080p].mkv
+Agatha All Along S01E06 [1080p].mkv
 Nobody Wants This S01E01 Pilot [1080p].mkv
 Nobody Wants This S01E02 A Shiksa Walks Into a Temple [1080p].mkv
 Nobody Wants This S01E03 Either Aura [1080p].mkv
@@ -1247,6 +1248,10 @@ Starting 5 S01E08 [1080p].mkv
 Starting 5 S01E09 [1080p].mkv
 Starting 5 S01E10 [1080p].mkv
 Starting 5 S01E5 [1080p].mkv
+The Penguin S01E01 [1080p].mkv
+The Penguin S01E02 Inside Man [1080p].mkv
+The Penguin S01E03 [1080p].mkv
+The Penguin S01E04 [1080p].mkv
 The Secret Lives of Mormon Wives S01E01 [1080p].mkv
 The Secret Lives of Mormon Wives S01E02 [1080p].mkv
 The Secret Lives of Mormon Wives S01E03 [1080p].mkv
@@ -1283,9 +1288,11 @@ Bleeding Love (2023) [1080p].mp4
 Blink Twice (2024) [1080p] .mp4
 Borderlands (2024) [1080p].mp4
 Bruce Almighty (2003) [1080p].mp4
+Brothers (2024) [1080p] .mp4
 Challengers (2024 ) [1080p].mkv
 Chasing Amy (1997) [1080p].mp4
 Civil War (2024) [1080p].mkv
+Classified (2024) [1080p].mp4
 Colin Jost Michael Che Present New York After Dark (2024) [1080p].mp4
 Dallas Buyers Club (2013) [1080p].mp4
 Damaged (2024) [1080p].mkv
@@ -1380,6 +1387,7 @@ Trigger Warning (2024) [1080p] .mp4
 Tropic Thunder (2008) [1080p].mp4
 Twister (1996) [1080p].mkv
 Twisters (2024) [1080p].mp4
+Transformers One (2024) [1080p] .mp4
 Uglies (2024) [1080p] .mp4
 V H S Beyond (2024) [1080p] .mp4
 We Are Marshall (2006).mkv

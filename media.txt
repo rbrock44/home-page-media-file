@@ -1257,6 +1257,7 @@ The Penguin S01E03 [1080p].mkv
 The Penguin S01E04 [1080p].mkv
 The Penguin S01E05 [1080p].mkv
 The Penguin S01E07 Top Hat [1080p].mkv
+The Penguin S01E08 [1080p].mkv
 The Secret Lives of Mormon Wives S01E01 [1080p].mkv
 The Secret Lives of Mormon Wives S01E02 [1080p].mkv
 The Secret Lives of Mormon Wives S01E03 [1080p].mkv
@@ -1345,8 +1346,10 @@ Me Myself And Irene (2000) [1080p].mkv
 Mean Girls (2024) [1080p].mkv
 Megamind vs the Doom Syndicate (2024) [1080p].mkv
 Millers Girl (2024) [1080p].mkv
+Monster Summer (2024) [1080p].mkv
 Mother Of The Bride (2024) [1080p] .mp4
 Music By John Williams (2024) [1080p].mp4
+My Old Ass (2024) [1080p].mp4
 My Spy The Eternal City (2024) [1080p] .mp4
 Next Goal Wins (2023) [1080p].mkv
 Ordinary Angels (2024) [1080p].mkv
@@ -1367,6 +1370,7 @@ Speak no Evil (2024)[1080p].mkv
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
+Shark Warning (2024) [1080p] .mp4
 IndexerVolumeGuid
 WPSettings.dat
 The Apprentice (2024) [1080p].mp4
@@ -1399,6 +1403,16 @@ Twisters (2024) [1080p].mp4
 Uglies (2024) [1080p] .mp4
 V H S Beyond (2024) [1080p] .mp4
 We Are Marshall (2006).mkv
+What.We.Do.in.the.Shadows.S05E01.The.Mall.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E02.A.Night.Out.with.the.Guys.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E03.Pride.Parade.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E04.The.Campaign.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E05.Local.News.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E06.Urgent.Care.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E07.Hybrid.Creatures.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E08.The.Roast.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E09.A.Weekend.at.Morrigan.Manor.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
+What.We.Do.in.the.Shadows.S05E10.Exit.Interview.1080p.AMZN.WEBRip.DDP.5.1.x265-edge2020.mkv
 Wish (2023) [1080p].mkv
 Wolfs (2024) [1080p] .mp4
 Woman Of The Hour (2023) [1080p].mp4

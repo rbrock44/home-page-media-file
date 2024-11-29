@@ -1297,6 +1297,7 @@ Brothers (2024) [1080p] .mp4
 Bruce Almighty (2003) [1080p].mp4
 Challengers (2024 ) [1080p].mkv
 Chasing Amy (1997) [1080p].mp4
+Chicken Run (2000) [1080p].mkv
 Civil War (2024) [1080p].mkv
 Classified (2024) [1080p].mp4
 Colin Jost Michael Che Present New York After Dark (2024) [1080p].mp4
@@ -1311,6 +1312,7 @@ Die Hart 2 Die Harter (2024) [1080p].mkv
 Dont Look Under the Bed (1999) [1080p].mkv
 Dune Part Two (2024) [1080p].mkv
 Eileen (2023) [1080p].mkv
+Emilia Perez (2024) [1080p].mp4
 Evan Almighty (2007) [1080p].mkv
 Fools Rush In (1997) [1080p] .mp4
 Force Of Nature The Dry 2 (2024) [1080p].mkv
@@ -1322,6 +1324,7 @@ Godzilla Minus One (2023) [1080p] .mp4
 Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One  [1080p].mp4
 Godzilla X Kong The New Empire (2024) [2160p] .mkv
+Goodrich (2024) [1080p].mp4
 Grosse Pointe Blank (1997) [1080p].mp4
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
 Hellboy (2004) [1080p].mkv
@@ -1344,6 +1347,7 @@ Marmalade (2024) [1080p].mkv
 Mars Express (2023) [1080p] .mp4
 Me Myself And Irene (2000) [1080p].mkv
 Mean Girls (2024) [1080p].mkv
+Megalopolis (2024) [1080p].mp4
 Megamind vs the Doom Syndicate (2024) [1080p].mkv
 Millers Girl (2024) [1080p].mkv
 Monster Summer (2024) [1080p].mkv
@@ -1355,12 +1359,14 @@ Next Goal Wins (2023) [1080p].mkv
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
 Rebel Moon Part Two The Scargiver (2024)[1080p].mkv
+Reign of Fire (2002) [1080p].mp4
 Reunion  (2024) [1080p].mkv
 Ricky Gervais Armageddon (2023) [1080p].mkv
 Ricky Gervais Armageddon (2023) [1080p].sfv
 Road House (2024) [1080p].mkv
 Road to Perdition (2002) [1080p].mkv
 Role Play (2024) [1080p].mkv
+Rumours (2024) [1080p].mp4
 Sense and Sensibility (2024) [1080p].mkv
 Snow White And The Seven Samurai (2024) [1080p] .mp4
 South Park Not Suitable For Children (2023) [1080p].mkv
@@ -2853,6 +2859,11 @@ Cobra Kai S06E02 [1080p].mkv
 Cobra Kai S06E03 [1080p].mkv
 Cobra Kai S06E04 [1080p].mkv
 Cobra Kai S06E05 [1080p].mkv
+Cobra Kai S06E06 [1080p].mkv
+Cobra Kai S06E07 [1080p].mkv
+Cobra Kai S06E08 [1080p].mkv
+Cobra Kai S06E09 [1080p].mkv
+Cobra Kai S06E10 [1080p].mkv
 Community S01E01 [1080p].mkv
 Community S01E02 [1080p].mkv
 Community S01E03 [1080p].mkv
@@ -4990,6 +5001,10 @@ Greys Anatomy S20E10 [1080p].mkv
 Greys Anatomy S21E01 [1080p].mkv
 Greys Anatomy S21E02 Take Me to Church [1080p].mkv
 Greys Anatomy S21E03 [1080p].mkv
+Greys Anatomy S21E04 [1080p].mkv
+Greys Anatomy S21E05 [1080p].mkv
+Greys Anatomy S21E06 [1080p].mkv
+Greys Anatomy S21E07 [1080p].mkv
 Halo S01E01 [1080p].mkv
 Halo S01E02 Unbound [1080p].mkv
 Halo S01E03 [1080p].mkv

@@ -1222,10 +1222,10 @@ Agatha All Along S01E07 [1080p].mkv
 Agatha All Along S01E08 [1080p].mkv
 Agatha All Along S01E09 [1080p].mkv
 Dune Prophecy S01E01 [1080p].mkv
+Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
 Dune Prophecy S01E04 [1080p].mkv
 Dune Prophecy S01E04.[1080p].mkv
-Dune.Prophecy.S01E02.1080p.AV1.10bit-MeGusta.mkv
 Nobody Wants This S01E01 Pilot [1080p].mkv
 Nobody Wants This S01E02 A Shiksa Walks Into a Temple [1080p].mkv
 Nobody Wants This S01E03 Either Aura [1080p].mkv
@@ -1325,8 +1325,8 @@ Die Alone (2024) [1080p].mp4
 Die Hart 2 Die Harter (2024) [1080p].mkv
 Dont Look Under the Bed (1999) [1080p].mkv
 Dune Part Two (2024) [1080p].mkv
-Elevation (2024) [1080p] .mp4
 Eileen (2023) [1080p].mkv
+Elevation (2024) [1080p] .mp4
 Emilia Perez (2024) [1080p].mp4
 Evan Almighty (2007) [1080p].mkv
 Fools Rush In (1997) [1080p] .mp4
@@ -1342,12 +1342,12 @@ Godzilla X Kong The New Empire (2024) [2160p] .mkv
 Goodrich (2024) [1080p].mp4
 Grosse Pointe Blank (1997) [1080p].mp4
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
-Heretic (2024) [1080p] .mp4
 Hellboy (2004) [1080p].mkv
 Hellboy (2019)[1080p].mp4
 Hellboy The Crooked Man (2024) [1080p].mp4
 Hellboy The Golden Army (2008) [1080p].mp4
 Here (2024) [1080p].mp4
+Heretic (2024) [1080p] .mp4
 IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
 It Ends With Us (2024) [1080p] .mp4
@@ -1387,6 +1387,7 @@ Road to Perdition (2002) [1080p].mkv
 Role Play (2024) [1080p].mkv
 Rumours (2024) [1080p].mp4
 Sense and Sensibility (2024) [1080p].mkv
+Shark Warning (2024) [1080p] .mp4
 Sidelined The QB and Me (2024) [1080p].mkv
 Snow White And The Seven Samurai (2024) [1080p] .mp4
 South Park Not Suitable For Children (2023) [1080p].mkv
@@ -1396,7 +1397,6 @@ Speak no Evil (2024)[1080p].mkv
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
-Shark Warning (2024) [1080p] .mp4
 IndexerVolumeGuid
 WPSettings.dat
 The Apprentice (2024) [1080p].mp4
@@ -11095,6 +11095,32 @@ Suits S07E13 [1080p].mp4
 Suits S07E14 [1080p].mp4
 Suits S07E15 [1080p].mp4
 Suits S07E16 [1080p].mp4
+Suits S08E01 [1080p].mkv
+Suits S08E02 [1080p].mkv
+Suits S08E03 [1080p].mkv
+Suits S08E04 [1080p].mkv
+Suits S08E05 [1080p].mkv
+Suits S08E06 [1080p].mkv
+Suits S08E07 [1080p].mkv
+Suits S08E08 [1080p].mkv
+Suits S08E09 [1080p].mkv
+Suits S08E10 [1080p].mkv
+Suits S08E11 [1080p].mkv
+Suits S08E12 [1080p].mkv
+Suits S08E13 [1080p].mkv
+Suits S08E14 [1080p].mkv
+Suits S08E15 [1080p].mkv
+Suits S08E16 [1080p].mkv
+Suits S09E01 [1080p]mkv
+Suits S09E02 [1080p].mkv
+Suits S09E03 [1080p].mkv
+Suits S09E04 [1080p].mkv
+Suits S09E05 [1080p].mkv
+Suits S09E06 [1080p].mkv
+Suits S09E07 [1080p].mkv
+Suits S09E08 [1080p].mkv
+Suits S09E09 [1080p].mkv
+Suits S09E10 [1080p].mkv
 The Acolyte S01E01 [1080p].mkv
 The Acolyte S01E02 [1080p].mkv
 The Acolyte S01E03 [1080p].mkv

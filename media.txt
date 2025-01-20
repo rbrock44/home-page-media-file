@@ -856,7 +856,7 @@ Infinite (2021) [1080p].mkv
 Jumper (2008) [1080p].mp4
 Lightyear (2022) [1080p].mkv
 Madagascar (2005) [1080p].mp4
-Moana.2016.1080p.BluRay.x265-RARBG.mp4
+Moana (2016) [1080p].mp4
 My Little Pony Equestria Girls Friendship Games (2015) [1080p].idx
 My Little Pony Equestria Girls Friendship Games (2015) [1080p].mp4
 Nightmare Alley (2021) [1080p].mkv
@@ -1213,7 +1213,7 @@ Zombieland (2009) [1080p].mp4
 Zombieland Double Tap (2019) [720p].avi
 Zootopia (2016) [720p].mkv
 Agatha All Along S01E01 [1080p].mkv
-Agatha All Along S01E02 [1080p].mkv.mkv
+Agatha All Along S01E02 [1080p].mkv
 Agatha All Along S01E03 [1080p].mkv
 Agatha All Along S01E04 [1080p].mkv
 Agatha all along S01E05 [1080p].mkv
@@ -1225,27 +1225,6 @@ Dune Prophecy S01E01 [1080p].mkv
 Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
 Dune Prophecy S01E04 [1080p].mkv
-Dune Prophecy S01E04.[1080p].mkv
-Nobody Wants This S01E01 Pilot [1080p].mkv
-Nobody Wants This S01E02 A Shiksa Walks Into a Temple [1080p].mkv
-Nobody Wants This S01E03 Either Aura [1080p].mkv
-Nobody Wants This S01E04 Obliterated [1080p].mkv
-Nobody Wants This S01E05 My Friend Joanne [1080p].mkv
-Nobody Wants This S01E06 The Ick [1080p].mkv
-Nobody Wants This S01E07 WAGS [1080p].mkv
-Nobody Wants This S01E08 Rebeccas Box [1080p].mkv
-Nobody Wants This S01E09 My Girl Bina [1080p].mkv
-Nobody Wants This S01E10 Bat Mitzvah Crashers [1080p].mkv
-Only Murders in the Building  S01E04 The Sting [1080p].mkv
-Only Murders in the Building S01E01 True Crime [1080p].mkv
-Only Murders in the Building S01E02 Who Is Tim Kono [1080p].mkv
-Only Murders in the Building S01E03 How Well Do You Know Your Neighbors [1080p].mkv
-Only Murders in the Building S01E05 Twist [1080p].mkv
-Only Murders in the Building S01E06 To Protect and Serve [1080p].mkv
-Only Murders in the Building S01E07 The Boy from 6B [1080p].mkv
-Only Murders in the Building S01E08 Fan Fiction [1080p].mkv
-Only Murders in the Building S01E09 Double Time [1080p].mkv
-Only Murders in the Building S01E10 Open and Shut [1080p].mkv
 Starting 5 S01E01 [1080p].mkv
 Starting 5 S01E02 [1080p].mkv
 Starting 5 S01E03 [1080p].mkv
@@ -1263,23 +1242,15 @@ The Penguin S01E04 [1080p].mkv
 The Penguin S01E05 [1080p].mkv
 The Penguin S01E07 Top Hat [1080p].mkv
 The Penguin S01E08 [1080p].mkv
-The Secret Lives of Mormon Wives S01E01 [1080p].mkv
-The Secret Lives of Mormon Wives S01E02 [1080p].mkv
-The Secret Lives of Mormon Wives S01E03 [1080p].mkv
-The Secret Lives of Mormon Wives S01E04 [1080p].mkv
-The Secret Lives of Mormon Wives S01E05 [1080p].mkv
-The Secret Lives of Mormon Wives S01E06 [1080p].mkv
-The Secret Lives of Mormon Wives S01E07 [1080p].mkv
-The Secret Lives of Mormon Wives S01E08 [1080p].mkv
-The Secret Lives of Mormon Wives S01E09 [1080p].mkv
 UFC 310 Pantoja vs Asakura [1080p].mkv
 WrestleMania 40 Saturday.mp4
 WrestleMania 40 Sunday.mp4
 WWE Backlash France (2024).mp4
 WWE Clash At The Castle Scotland (2024).mp4
 WWE King and Queen of the Ring (2024).mp4
+WWE SummerSlam (2024).mp4
 WWE Survivor Series War Games (2024).mp4
-WWE.SummerSlam.2024.WEB.h264-HEEL.mp4
+10 Things I Hate About You (1999) [1080p].mp4
 12th Fail (2023) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
@@ -1299,12 +1270,14 @@ Austin Powers Goldmember (2002) [1080p].mp4
 Austin Powers International Man of Mystery (1997) [1080p].mp4
 Austin Powers The Spy Who Shagged Me (1999) [1080p].mp4
 Azrael (2024) [1080p].mp4
+Back in Action (2025) [1080p].mkv
 Bad Boys Ride Or Die (2024) [1080p] .mp4
 Beetlejuice Beetlejuice (2024) [1080p] .mp4
 Birds Of Prey And The Fantabulous Emancipation Of One Harley Quinn (2020) [1080p] .mp4
 Bleeding Love (2023) [1080p].mp4
 Blink Twice (2024) [1080p] .mp4
 Borderlands (2024) [1080p].mp4
+Bride Wars (2009) [1080p].mp4
 Brothers (2024) [1080p] .mp4
 Bruce Almighty (2003) [1080p].mp4
 Challengers (2024 ) [1080p].mkv
@@ -1330,6 +1303,7 @@ Eileen (2023) [1080p].mkv
 Elevation (2024) [1080p] .mp4
 Emilia Perez (2024) [1080p].mp4
 Evan Almighty (2007) [1080p].mkv
+Failure to Launch (2006) [1080p].mp4
 Fools Rush In (1997) [1080p] .mp4
 Force Of Nature The Dry 2 (2024) [1080p].mkv
 Forrest Gump (1994) [1080p].mp4
@@ -1350,6 +1324,7 @@ Hellboy The Crooked Man (2024) [1080p].mp4
 Hellboy The Golden Army (2008) [1080p].mp4
 Here (2024) [1080p].mp4
 Heretic (2024) [1080p] .mp4
+Hes Just Not That Into You (2009) [1080p].mp4
 IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
 It Ends With Us (2024) [1080p] .mp4
@@ -1359,10 +1334,13 @@ Juror 2 (2024) [1080p].mkv
 Justice League Crisis On Infinite Earths Part Three (2024) [1080p] .mp4
 Kung Fu Games (2024) [720p] .mp4
 Land of Bad (2024) [1080p].mp4
+Les Miserables (2012) [1080p].mp4
 Love Jones (1997) [1080p] .jpg
 Love Jones (1997) [1080p] .mp4
 Love, Rosie (2014) [1080p].mp4
 Madame Web (2024) [1080p].mkv
+Mamma Mia! (2008) [1080p].mp4
+Mamma Mia! Here We Go Again (2018) [1080p].mp4
 Marmalade (2024) [1080p].mkv
 Mars Express (2023) [1080p] .mp4
 Me Myself And Irene (2000) [1080p].mkv
@@ -1374,13 +1352,19 @@ Moana 2 (2024) [1080p].mp4
 Monster Summer (2024) [1080p].mkv
 Mother Of The Bride (2024) [1080p] .mp4
 Music By John Williams (2024) [1080p].mp4
+My Big Fat Greek Wedding (2002) [1080p].mp4
+My Big Fat Greek Wedding 2 (2016) [1080p].mp4
+My Big Fat Greek Wedding 3 (2023) [1080p].mp4
 My Old Ass (2024) [1080p].mp4
 My Spy The Eternal City (2024) [1080p] .mp4
 Next Goal Wins (2023) [1080p].mkv
 Nightbitch (2024) [1080p].mp4
+No Reservations (2007) [1080p].mp4
 Nutcrackers (2024) [1080p] .mp4
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
+Poor Things (2023) [1080p].mp4
+Raising Helen (2004) [1080p].mp4
 Rebel Moon Part Two The Scargiver (2024)[1080p].mkv
 Reign of Fire (2002) [1080p].mp4
 Reunion  (2024) [1080p].mkv
@@ -1395,6 +1379,7 @@ Shark Warning (2024) [1080p] .mp4
 Sidelined The QB and Me (2024) [1080p].mkv
 Small Things Like These (2024) [1080p].mp4
 Snow White And The Seven Samurai (2024) [1080p] .mp4
+Something Borrowed (2011) [1080p].mp4
 South Park Not Suitable For Children (2023) [1080p].mkv
 SOUTH PARK THE END OF OBESITY (2024) [1080p].mkv
 Spaceman (2024) [1080p].mkv
@@ -1409,17 +1394,23 @@ The Beautician And The Beast (1997) [1080p] .mp4
 The Beekeeper (2024) [1080p].mkv
 The Best Christmas Pageant Ever (2024) [108op].mp4
 The Bricklayer (2023) [1080p].mkv
+The Devil Wears Prada (2006) [1080p].mp4
 The Fall Guy (2024)  [4K] .mkv
 The Forbidden Kingdom (2008) [1080p] .mp4
 The Full Monty (1997) [1080p] .mp4
 The Greatest of All Time 2024 GOAT 2024 [1080p x264 WEB-DL Hindi + Tamil AAC 2.0 HC-ESUB] xDark [MoviesUp]_1.mkv
 vlc-record-2024-09-28-08h54m12s-The Greatest of All Time 2024 GOAT 2024 [1080p x264 WEB-DL Hindi + Tamil AAC 2.0 HC-ESUB] xDark [MoviesUp]_1.mkv-.mp4
+The Hustle (2019) [1080p].mp4
+The Idea Of You (2024) [1080p].mp4
+The Intern (2015) [1080p].mp4
 The Iron Claw (2023) [1080p].mkv
 The Killers Game (2024) [1080p] .mp4
 The King Tide (2024) [1080p].mkv
 The Ladykillers (2004) [1080p].mkv
 The Ministry Of Ungentlemanly Warfare (2024) [1080p] .mp4
 The Painter (2024) [1080p] .mp4
+The Princess Diaries (2001) [1080p].mp4
+The Princess Diaries 2 Royal Engagement (2004) [1080p].mp4
 The Roast Of Tom Brady (2024) [1080p] .mp4
 The Shaft (2001) [1080p].mp4
 The Six Triple Eight (2024) [1080p].mp4
@@ -4508,12 +4499,12 @@ Game of Thrones S07E07 [720p].mkv
 game of thrones s08e01 repack [1080p].mkv
 Game Of Thrones S08E02.mkv
 game of thrones s08e03 [720p].mkv
-Good.Omens S02E01 [1080p].mkv
-Good.Omens S02E02 [1080p].mkv
-Good.Omens S02E03 [1080p].mkv
-Good.Omens S02E04 [1080p].mkv
-Good.Omens S02E05 [1080p].mkv
-Good.Omens S02E06 [1080p].mkv
+Good Omens S02E01 [1080p].mkv
+Good Omens S02E02 [1080p].mkv
+Good Omens S02E03 [1080p].mkv
+Good Omens S02E04 [1080p].mkv
+Good Omens S02E05 [1080p].mkv
+Good Omens S02E06 [1080p].mkv
 Good Omens S01E01 [1080p].mp4
 Good Omens S01E02 [1080p].mp4
 Good Omens S01E03 [1080p].mp4
@@ -5188,10 +5179,10 @@ Humans S03E06 Episode 6 [1080p].mkv
 Humans S03E07 Episode 7 [1080p].mkv
 Humans S03E08 Episode 8 [1080p].mkv
 I Am Groot S01E01 [1080p].mkv
-I Am Groot S01E02 [1080p].mkv.mkv
-I Am Groot S01E03 [1080p].mkv.mkv
-I Am Groot S01E04 [1080p].mkv.mkv
-I Am Groot S01E05 [1080p].mkv.mkv
+I Am Groot S01E02 [1080p].mkv
+I Am Groot S01E03 [1080p].mkv
+I Am Groot S01E04 [1080p].mkv
+I Am Groot S01E05 [1080p].mkv
 Into The Badlands S01E01 [1080p].idx
 Into The Badlands S01E01 [1080p].mkv
 Into The Badlands S01E02 [1080p].idx
@@ -7674,6 +7665,7 @@ Severance S01E06.mp4
 Severance S01E07.mp4
 Severance S01E08.mp4
 Severance S01E09.mp4
+Severance S02E01 [1080p].mkv
 Movie #1 - A Conversation with Sarah Jessica Parker.mkv
 Movie #1 - Deleted Scenes w∕optional commentary.mkv
 Movie #1 - Fergie in the Studio.mkv
@@ -8745,6 +8737,7 @@ The Angry Beavers S04E02 Fat Chance - Dag in the Mirror [480p].mkv
 The Angry Beavers S04E03 Canucks Amuck - Yak in the Sack [480p].mkv
 The Angry Beavers S04E04 Driving Misses Daggett - Big Fun [480p].mkv
 The Angry Beavers S04E05 Moby Dopes - Present Tense [480p].mkv
+The Angry Beavers S04E06 It's a Spootiful Life - The Mom from U.N.C.L.E. [480p].mkv
 The Angry Beavers S04E07 House Sisters - Muscular Beaver 5 [480p].mkv
 The Angry Beavers S04E08 Vantastic Voyage - Blacktop Beavers [480p].mkv
 The Angry Beavers S04E09 Specs Appeal - Things That Go Hook in the Night [480p].mkv
@@ -8753,7 +8746,6 @@ The Angry Beavers S04E11 The Big Frog - Dag Con Carny [480p].mkv
 The Angry Beavers S04E12 Beavemaster - Deck Poops 480p [DVDRip].mkv
 The Angry Beavers S04E13 Dagski and Norb Shell or High Water [480p].mkv
 The Angry Beavers S04E14 All in the Colony Line Duncing [480p].mkv
-The.Angry.Beavers.S04E06 It's a Spootiful Life - The Mom from U.N.C.L.E. [480p].mkv
 The Bear S01E01 [1080p].mkv
 The Bear S01E02 [1080p].mkv
 The Bear S01E03 [1080p].mkv
@@ -9122,8 +9114,8 @@ The Boys S04E03 [1080p].mkv
 The Boys S04E04 [1080p].mkv
 The Boys S04E05 [1080p].mkv
 The Boys S04E06 [1080p].mkv
+The Boys S04E07 [1080p].mkv
 The Boys S04E08 [1080p].mkv
-The.Boys.S04E07.[1080p].mkv
 The Falcon and the Winter Soldier S01E01 [1080p].mkv
 The Falcon and the Winter Soldier S01E02 [1080p].mkv
 The Falcon and The Winter Soldier S01E03 Power Broker [1080p].mkv
@@ -10620,7 +10612,7 @@ Eternals (2021) [1080p].mkv
 Guardians of the Galaxy (2014) [1080p].mp4
 Guardians of the Galaxy Vol 3 (2023) [1080p].mkv
 Guardians of the Galaxy Vol 2 (2017) [720p].mkv
-Iron Man 2008.720p.mp4
+Iron Man (2008) [720p].mp4
 Iron Man II (2010) [720p].mkv
 Iron Man 3 (2013) [720p].mp4
 Shang-Chi And The Legend Of The Ten Rings (2021) [1080p].mp4
@@ -10923,11 +10915,11 @@ Battlestar Galactica S04E19 Daybreak Part 1  [1080p].mkv
 Battlestar Galactica S04E20 Daybreak Parts 2 and 3  [1080p].mkv
 folder.jpg
 Eric 2024 S01E01 [1080p].mkv
-Eric 2024 S01E02 [1080p].mkv.mkv
-Eric 2024 S01E03 [1080p].mkv.mkv
-Eric 2024 S01E04 [1080p].mkv.mkv
-Eric 2024 S01E05 [1080p].mkv.mkv
-Eric 2024 S01E06 [1080p].mkv.mkv
+Eric 2024 S01E02 [1080p].mkv
+Eric 2024 S01E03 [1080p].mkv
+Eric 2024 S01E04 [1080p].mkv
+Eric 2024 S01E05 [1080p].mkv
+Eric 2024 S01E06 [1080p].mkv
 Griselda S01E01 [1080p].mkv
 Griselda S01E02 [1080p].mkv
 Griselda S01E03 [1080p].mkv
@@ -10950,6 +10942,26 @@ Mr and Mrs Smith (2024) S01E05 [1080p].mkv
 Mr and Mrs Smith (2024) S01E06 [1080p].mkv
 Mr and Mrs Smith (2024) S01E07 [1080p].mkv
 Mr and Mrs Smith (2024) S01E08 [1080p].mkv
+Nobody Wants This S01E01 Pilot [1080p].mkv
+Nobody Wants This S01E02 A Shiksa Walks Into a Temple [1080p].mkv
+Nobody Wants This S01E03 Either Aura [1080p].mkv
+Nobody Wants This S01E04 Obliterated [1080p].mkv
+Nobody Wants This S01E05 My Friend Joanne [1080p].mkv
+Nobody Wants This S01E06 The Ick [1080p].mkv
+Nobody Wants This S01E07 WAGS [1080p].mkv
+Nobody Wants This S01E08 Rebeccas Box [1080p].mkv
+Nobody Wants This S01E09 My Girl Bina [1080p].mkv
+Nobody Wants This S01E10 Bat Mitzvah Crashers [1080p].mkv
+Only Murders in the Building  S01E04 The Sting [1080p].mkv
+Only Murders in the Building S01E01 True Crime [1080p].mkv
+Only Murders in the Building S01E02 Who Is Tim Kono [1080p].mkv
+Only Murders in the Building S01E03 How Well Do You Know Your Neighbors [1080p].mkv
+Only Murders in the Building S01E05 Twist [1080p].mkv
+Only Murders in the Building S01E06 To Protect and Serve [1080p].mkv
+Only Murders in the Building S01E07 The Boy from 6B [1080p].mkv
+Only Murders in the Building S01E08 Fan Fiction [1080p].mkv
+Only Murders in the Building S01E09 Double Time [1080p].mkv
+Only Murders in the Building S01E10 Open and Shut [1080p].mkv
 Percy Jackson and the Olympians S01E01 [1080p].mkv
 Shogun (2024) S01E01 [1080p].mkv
 Shogun (2024) S01E02 [1080p].mkv
@@ -11137,6 +11149,15 @@ The Acolyte S01E05 [1080p].mkv
 The Acolyte S01E06 [1080p].mkv
 The Acolyte S01E07 [1080p].mkv
 The Acolyte S01E08 [1080p].mkv
+The Secret Lives of Mormon Wives S01E01 [1080p].mkv
+The Secret Lives of Mormon Wives S01E02 [1080p].mkv
+The Secret Lives of Mormon Wives S01E03 [1080p].mkv
+The Secret Lives of Mormon Wives S01E04 [1080p].mkv
+The Secret Lives of Mormon Wives S01E05 [1080p].mkv
+The Secret Lives of Mormon Wives S01E06 [1080p].mkv
+The Secret Lives of Mormon Wives S01E07 [1080p].mkv
+The Secret Lives of Mormon Wives S01E08 [1080p].mkv
+The Secret Lives of Mormon Wives S01E09 [1080p].mkv
 WWE SummerSlam (2024).mp4
 X-Men 97 S01E01 To Me My X-Men [1080p].mkv
 X-Men 97 S01E01 [1080p].mkv
@@ -11574,15 +11595,15 @@ Magicians US S03E11.idx
 Magicians US S03E12.idx
 Magicians US S03E13.idx
 01 - Renaissance (Main Title Theme).mp3
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.0.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.2.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.3.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.4.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.5.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.6.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.7.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.8.png
-X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.1080p.9.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 0.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 2.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 3.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 4.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 5.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 6.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 7.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 8.png
+X-Men Days of Future Past (2014) The Rogue Cut [1080p] 9.png
 DBZ Mov.01 Dead Zone.jpg
 Dragon Ball Z - Movie 02 - Dead Zone (Dual-Audio).mkv
 DBZ Mov.02 World's Strongest.jpg

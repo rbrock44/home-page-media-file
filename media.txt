@@ -1316,6 +1316,7 @@ Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One  [1080p].mp4
 Godzilla X Kong The New Empire (2024) [2160p] .mkv
 Goodrich (2024) [1080p].mp4
+Grafted (2024) [1080p].mp4
 Grosse Pointe Blank (1997) [1080p].mp4
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
 Hellboy (2004) [1080p].mkv
@@ -1327,6 +1328,7 @@ Heretic (2024) [1080p] .mp4
 Hes Just Not That Into You (2009) [1080p].mp4
 IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
+Into The Deep (2025) [1080p].mp4
 It Ends With Us (2024) [1080p] .mp4
 Its Whats Inside (2024) [1080p].mp4
 Joker Folie a Deux (2024) [1080p] .mp4
@@ -1360,12 +1362,17 @@ My Spy The Eternal City (2024) [1080p] .mp4
 Next Goal Wins (2023) [1080p].mkv
 Nightbitch (2024) [1080p].mp4
 No Reservations (2007) [1080p].mp4
+Nosferatu (2024) [1080p].mp4
 Nutcrackers (2024) [1080p] .mp4
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
+Pokemon 3 The Movie Spell Of The Unown (2000) [1080p].mp4
+Pokemon 4Ever Celebi - Voice Of The Forest (2001) [1080p].mp4
+Pokemon Heroes (2002) [1080p].mp4
 Pokemon.The.First.Movie.-.Mewtwo.Strikes.Back.1998.DUBBED.REPACK.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
 www.YTS.MX.jpg
 YTSYifyUP... (TOR).txt
+Pokemon The Movie 2000 (1999) [1080p].mp4
 Poor Things (2023) [1080p].mp4
 Raising Helen (2004) [1080p].mp4
 Rebel Moon Part Two The Scargiver (2024)[1080p].mkv
@@ -1381,6 +1388,7 @@ Sense and Sensibility (2024) [1080p].mkv
 Shark Warning (2024) [1080p] .mp4
 Sidelined The QB and Me (2024) [1080p].mkv
 Small Things Like These (2024) [1080p].mp4
+Sniper The Last Stand (2025) [2160p].mkv
 Snow White And The Seven Samurai (2024) [1080p] .mp4
 Something Borrowed (2011) [1080p].mp4
 South Park Not Suitable For Children (2023) [1080p].mkv
@@ -3731,38 +3739,38 @@ DBZ - 105 Mighty Blast of Rage.mkv
 DBZ - 106 Nameks Explosion Gokus End.mkv
 DBZ - 107 Gokus Alive.mkv
 Dragonball Z Special - History of Trunks.mkv
-DBZ - 108 - The Heavens Tremble.mkv
-DBZ - 109 - Black Fog Of Terror.mkv
-DBZ - 110 - Battle in Kami's Lookout.mkv
-DBZ - 111 - Fight With Piccolo.mkv
-DBZ - 112 - Call For Restoration.mkv
-DBZ - 113 - Suicidal Course.mkv
-DBZ - 114 - Extreme Measures.mkv
-DBZ - 115 - The World Awakens.mkv
-DBZ - 116 - Brief Chance For Victory.mkv
-DBZ - 117 - Krillin s Proposal.mkv
-DBZ - 118 - Frieza's Counterattack.mkv
-DBZ - 119 - The Mysterious Youth.mkv
-DBZ - 120 - Another Super Saiyan.mkv
-DBZ - 121 - Welcome Back Goku.mkv
-DBZ - 122 - Mystery Revealed.mkv
-DBZ - 123 - Goku's Special Technique.mkv
-DBZ - 124 - Z Warriors Prepare.mkv
-DBZ - 125 - Goku's Ordeal.mkv
-DBZ - 126 - The Androids Appear.mkv
-DBZ - 127 - A Handy Trick.mkv
-DBZ - 128 - Double Trouble For Goku.mkv
-DBZ - 129 - Upgrade to Super Saiyan.mkv
-DBZ - 130 - The Secret of Dr. Gero.mkv
-DBZ - 131 - More Androids.mkv
-DBZ - 132 - Follow Dr. Gero.mkv
-DBZ - 133 - Nightmare Comes True.mkv
-DBZ - 134 - Goku's Assassin.mkv
-DBZ - 135 - Deadly Beauty.mkv
-DBZ - 136 - No Match For The Androids.mkv
-DBZ - 137 - Last Ditch Effort.mkv
-DBZ - 138 - Closing In.mkv
-DBZ - 139 - Unwelcome Discovery.mkv
+DBZ - 108 The Heavens Tremble.mkv
+DBZ - 109 Black Fog Of Terror.mkv
+DBZ - 110 Battle in Kami's Lookout.mkv
+DBZ - 111 Fight With Piccolo.mkv
+DBZ - 112 Call For Restoration.mkv
+DBZ - 113 Suicidal Course.mkv
+DBZ - 114 Extreme Measures.mkv
+DBZ - 115 The World Awakens.mkv
+DBZ - 116 Brief Chance For Victory.mkv
+DBZ - 117 Krillin s Proposal.mkv
+DBZ - 118 Frieza's Counterattack.mkv
+DBZ - 119 The Mysterious Youth.mkv
+DBZ - 120 Another Super Saiyan.mkv
+DBZ - 121 Welcome Back Goku.mkv
+DBZ - 122 Mystery Revealed.mkv
+DBZ - 123 Goku's Special Technique.mkv
+DBZ - 124 Z Warriors Prepare.mkv
+DBZ - 125 Goku's Ordeal.mkv
+DBZ - 126 The Androids Appear.mkv
+DBZ - 127 A Handy Trick.mkv
+DBZ - 128 Double Trouble For Goku.mkv
+DBZ - 129 Upgrade to Super Saiyan.mkv
+DBZ - 130 The Secret of Dr. Gero.mkv
+DBZ - 131 More Androids.mkv
+DBZ - 132 Follow Dr. Gero.mkv
+DBZ - 133 Nightmare Comes True.mkv
+DBZ - 134 Goku's Assassin.mkv
+DBZ - 135 Deadly Beauty.mkv
+DBZ - 136 No Match For The Androids.mkv
+DBZ - 137 Last Ditch Effort.mkv
+DBZ - 138 Closing In.mkv
+DBZ - 139 Unwelcome Discovery.mkv
 DBZ - 140 - Seized With Fear.mkv
 DBZ - 141 - The Reunion.mkv
 DBZ - 142 - Borrowed Powers.mkv
@@ -10957,6 +10965,38 @@ Nobody Wants This S01E07 WAGS [1080p].mkv
 Nobody Wants This S01E08 Rebeccas Box [1080p].mkv
 Nobody Wants This S01E09 My Girl Bina [1080p].mkv
 Nobody Wants This S01E10 Bat Mitzvah Crashers [1080p].mkv
+Numb3rs.S01E01.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E02.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E03.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E04.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E05.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E06.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E07.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E08.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E09.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E10.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E11.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E12.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S01E13.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E01.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E02.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E03.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E04.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E05.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E06.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E07.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E08.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E09.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E10.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E11.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E12.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E13.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E14.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E15.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E16.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E17.1080p.WEBRip.x265-RARBG.mp4
+Numb3rs.S04E18.1080p.WEBRip.x265-RARBG.mp4
+RARBG.txt
 Only Murders in the Building  S01E04 The Sting [1080p].mkv
 Only Murders in the Building S01E01 True Crime [1080p].mkv
 Only Murders in the Building S01E02 Who Is Tim Kono [1080p].mkv
@@ -10995,6 +11035,46 @@ Schitt's Creek (2015) S02E09  Moira's Nudes [1080p].mkv
 Schitt's Creek (2015) S02E11 The Motel Guest [1080p].mkv
 Schitt's Creek (2015) S02E12  Lawn Signs [1080p].mkv
 Schitt's Creek (2015) S02E13 Happy Anniversary [1080p].mkv
+Schitt's Creek (2015) - S03E01 - Opening Night [1080p].mkv
+Schitt's Creek (2015) - S03E02 - The Throuple [1080p].mkv
+Schitt's Creek (2015) - S03E03 - New Car [1080p].mkv
+Schitt's Creek (2015) - S03E04 - Driving Test [1080p].mkv
+Schitt's Creek (2015) - S03E05 - Rooms by the Hour [1080p].mkv
+Schitt's Creek (2015) - S03E06 - Murder Mystery [1080p].mkv
+Schitt's Creek (2015) - S03E07 - General Store [1080p].mkv
+Schitt's Creek (2015) - S03E08 - Motel Review [1080p].mkv
+Schitt's Creek (2015) - S03E09 - The Affair [1080p].mkv
+Schitt's Creek (2015) - S03E10 - Sebastien Raine [1080p].mkv
+Schitt's Creek (2015) - S03E11 - Stop Saying Lice! [1080p].mkv
+Schitt's Creek (2015) - S03E12 - Friends and Family [1080p].mkv
+Schitt's Creek (2015) - S03E13 - Grad Night [1080p].mkv
+Schitt's Creek (2015) - S00E09 - Merry Christmas, Johnny Rose [1080p].mkv
+Schitt's Creek (2015) - S04E01 - Dead Guy in Room 4 [1080p].mkv
+Schitt's Creek (2015) - S04E02 - Pregnancy Test [1080p].mkv
+Schitt's Creek (2015) - S04E03 - Asbestos Fest [1080p].mkv
+Schitt's Creek (2015) - S04E04 - Girls' Night [1080p].mkv
+Schitt's Creek (2015) - S04E05 - RIP Moira Rose [1080p].mkv
+Schitt's Creek (2015) - S04E06 - Open Mic [1080p].mkv
+Schitt's Creek (2015) - S04E07 - The Barbecue [1080p].mkv
+Schitt's Creek (2015) - S04E08 - The Jazzaguy [1080p].mkv
+Schitt's Creek (2015) - S04E09 - The Olive Branch [1080p].mkv
+Schitt's Creek (2015) - S04E10 - Baby Sprinkle [1080p].mkv
+Schitt's Creek (2015) - S04E11 - The Rollout [1080p].mkv
+Schitt's Creek (2015) - S04E12 - Singles Week [1080p].mkv
+Schitt's Creek (2015) - S05E01 - The Crowening [1080p].mkv
+Schitt's Creek (2015) - S05E02 - Love Letters [1080p].mkv
+Schitt's Creek (2015) - S05E03 - The Plant [1080p].mkv
+Schitt's Creek (2015) - S05E04 - The Dress [1080p].mkv
+Schitt's Creek (2015) - S05E05 - Housewarming [1080p].mkv
+Schitt's Creek (2015) - S05E06 - Rock On! [1080p].mkv
+Schitt's Creek (2015) - S05E07 - A Whisper Of Desire [1080p].mkv
+Schitt's Creek (2015) - S05E08 - The Hospies [1080p].mkv
+Schitt's Creek (2015) - S05E09 - The M.V.P. [1080p].mkv
+Schitt's Creek (2015) - S05E10 - Roadkill [1080p].mkv
+Schitt's Creek (2015) - S05E11 - Meet the Parents [1080p].mkv
+Schitt's Creek (2015) - S05E12 - The Roast [1080p].mkv
+Schitt's Creek (2015) - S05E13 - The Hike [1080p].mkv
+Schitt's Creek (2015) - S05E14 - Life Is A Cabaret [1080p].mkv
 Shogun (2024) S01E01 [1080p].mkv
 Shogun (2024) S01E02 [1080p].mkv
 Shogun (2024) S01E03 [1080p].mkv

@@ -3731,13 +3731,13 @@ DBZ - 097 - Namek's Destruction.mkv
 DBZ - 098 - A Final Attack.mkv
 DBZ - 099 - Approaching Destruction.mkv
 DBZ - 100 - Gohan Returns.mkv
-DBZ - 101.mkv
-DBZ - 102 Duel On A Vanishing Planet.mkv
-DBZ - 103 Pathos of Frieza.mkv
-DBZ - 104 Frieza Defeated.mkv
-DBZ - 105 Mighty Blast of Rage.mkv
-DBZ - 106 Nameks Explosion Gokus End.mkv
-DBZ - 107 Gokus Alive.mkv
+DBZ 101.mkv
+DBZ 102 - Duel On A Vanishing Planet.mkv
+DBZ 103 - Pathos of Frieza.mkv
+DBZ 104 - Frieza Defeated.mkv
+DBZ 105 - Mighty Blast of Rage.mkv
+DBZ 106 - Nameks Explosion Gokus End.mkv
+DBZ 107 - Gokus Alive.mkv
 Dragonball Z Special - History of Trunks.mkv
 DBZ - 108 The Heavens Tremble.mkv
 DBZ - 109 Black Fog Of Terror.mkv

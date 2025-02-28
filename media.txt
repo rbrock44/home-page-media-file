@@ -1224,6 +1224,12 @@ Agatha All Along S01E09 [1080p].mkv
 American Murder Gabby Petito S01E01 [1080p].mkv
 American Murder Gabby Petito S01E02 [1080p].mkv
 American Murder Gabby Petito S01E03 [1080p].mkv
+Court of Gold S01E01 [1080p].mkv
+Court of Gold S01E02 [1080p].mkv
+Court of Gold S01E03 [1080p].mkv
+Court of Gold S01E04 [1080p].mkv
+Court of Gold S01E05 [1080p].mkv
+Court of Gold S01E06 [1080p].mkv
 Dune Prophecy S01E01 [1080p].mkv
 Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
@@ -1350,6 +1356,7 @@ Justice League Crisis On Infinite Earths Part Three (2024) [1080p] .mp4
 Kung Fu Games (2024) [720p] .mp4
 Land of Bad (2024) [1080p].mp4
 Les Miserables (2012) [1080p].mp4
+Love Hurts (2025) [1080p] .mp4
 Love Jones (1997) [1080p] .jpg
 Love Jones (1997) [1080p] .mp4
 Love, Rosie (2014) [1080p].mp4
@@ -1378,6 +1385,7 @@ Nightbitch (2024) [1080p].mp4
 No Reservations (2007) [1080p].mp4
 Nosferatu (2024) [1080p].mp4
 Nutcrackers (2024) [1080p] .mp4
+Old Guy (2024) [1080p].mp4
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
 Pokemon 3 The Movie Spell Of The Unown (2000) [1080p].mp4
@@ -5248,6 +5256,7 @@ Invincible (2021) S02E07 [1080p].mkv
 Invincible (2021) S02E08 [1080p].mkv
 Invincible (2021) S2E03 [1080p].mkv
 Invincible (2021) S03E01 [1080p].mkv
+Invincible (2021) S03E06 [1080p].mkv
 Invincible 2021 S03E02 [1080p].mkv
 Invincible 2021 S03E03 [1080p].mkv
 Invincible 2021 S03E04 [1080p].mkv
@@ -7694,6 +7703,7 @@ Severance S02E03 Who Is Alive [1080p].mkv
 Severance S02E04 [1080p].mkv
 Severance S02E05 [1080p].mkv
 Severance S02E06 [1080p].mkv
+Severance S02E07 [1080p].mkv
 Movie #1 - A Conversation with Sarah Jessica Parker.mkv
 Movie #1 - Deleted Scenes w∕optional commentary.mkv
 Movie #1 - Fergie in the Studio.mkv
@@ -9896,6 +9906,7 @@ The White Lotus S01E04 Recentering [1080p].mkv
 The White Lotus S01E05 The Lotus-Eaters [1080p].mkv
 The White Lotus S01E06 Departures [1080p].mkv
 the white lotus s03e01 [1080p].mkv
+The White Lotus S03E02 [1080p].mkv
 the wire s01e01 [1080p].idx
 the wire s01e01 [1080p].mkv
 the wire s01e02 [1080p].idx

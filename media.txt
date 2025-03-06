@@ -1338,6 +1338,7 @@ Goodrich (2024) [1080p].mp4
 Grafted (2024) [1080p].mp4
 Grosse Pointe Blank (1997) [1080p].mp4
 H P Lovecrafts The Old Ones (2024) [1080p].mkv
+Harriet the Spy 1996 [1080p].mp4
 Hellboy (2004) [1080p].mkv
 Hellboy (2019)[1080p].mp4
 Hellboy The Crooked Man (2024) [1080p].mp4
@@ -1345,6 +1346,7 @@ Hellboy The Golden Army (2008) [1080p].mp4
 Here (2024) [1080p].mp4
 Heretic (2024) [1080p] .mp4
 Hes Just Not That Into You (2009) [1080p].mp4
+Ice Princess (2005) [1080p].mp4
 IF (2024) [1080p].mp4
 Immaculate (2024) [1080p] .mp4
 Into The Deep (2025) [1080p].mp4
@@ -9907,6 +9909,7 @@ The White Lotus S01E05 The Lotus-Eaters [1080p].mkv
 The White Lotus S01E06 Departures [1080p].mkv
 the white lotus s03e01 [1080p].mkv
 The White Lotus S03E02 [1080p].mkv
+the white lotus s03e03 [1080p].mkv
 the wire s01e01 [1080p].idx
 the wire s01e01 [1080p].mkv
 the wire s01e02 [1080p].idx
@@ -11044,6 +11047,21 @@ Only Murders in the Building S01E08 Fan Fiction [1080p].mkv
 Only Murders in the Building S01E09 Double Time [1080p].mkv
 Only Murders in the Building S01E10 Open and Shut [1080p].mkv
 Percy Jackson and the Olympians S01E01 [1080p].mkv
+Schitt's Creek (2015)  S06E01 Smoke Signals  [1080p].mkv
+Schitt's Creek (2015)  S06E02 The Incident [1080p].mkv
+Schitt's Creek (2015)  S06E06  The Wingman [1080p].mkv
+Schitt's Creek (2015)  S06E07  Moira Rosé  [1080p].mkv
+Schitt's Creek (2015)  S06E09  Rebound [1080p].mkv
+Schitt's Creek (2015)  S06E13 Start Spreading the News [1080p].mkv
+Schitt's Creek (2015) S00E10 Best Wishes, Warmest Regards A Schitt’s Creek Farewell [1080p].mkv
+Schitt's Creek (2015) S06E03 The Job Interview [1080p].mkv
+Schitt's Creek (2015) S06E04 Maid of Honour  [1080p].mkv
+Schitt's Creek (2015) S06E05 The Premiere [1080p].mkv
+Schitt's Creek (2015) S06E08  The Presidential Suite [1080p].mkv
+Schitt's Creek (2015) S06E10 Sunrise, Sunset [1080p].mkv
+Schitt's Creek (2015) S06E11 The Bachelor Party [1080p].mkv
+Schitt's Creek (2015) S06E12 The Pitch  [1080p].mkv
+Schitt's Creek (2015) S06E14  Happy Ending [1080].mkv
 Schitt's Creek (2015)   On The Set Of Schitts Creek [1080p].mkv
 Schitt's Creek (2015)   S01E05   The Cabin [1080p].mkv
 Schitt's Creek (2015)   S01E06   Wine and Roses [1080p].mkv

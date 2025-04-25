@@ -1232,6 +1232,8 @@ Dune Prophecy S01E01 [1080p].mkv
 Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
 Dune Prophecy S01E04 [1080p].mkv
+The Last of Us S02E01 [1080p].mkv
+The Last of Us S02E02 [1080p].mkv
 Running Point S01E01 [1080p].mkv
 Running Point S01E010 [1080p].mkv
 Running Point S01E02 [1080p].mkv
@@ -1285,6 +1287,7 @@ Angels in the Outfield (1994) [720p].mkv
 Anger Management (2003) [1080p].mp4
 Argylle (2024) [1080p].mkv
 As Good as It Gets (1997) [1080p].mp4
+Ash 2025 [1080p].mkv
 Atlas (2024) [1080p].mp4
 Austin Powers Goldmember (2002) [1080p].mp4
 Austin Powers International Man of Mystery (1997) [1080p].mp4
@@ -1434,6 +1437,7 @@ Pokemon The First Movie Mewtwo Strikes Back (1998) [1080p].mp4
 Pokemon The Movie 2000 (1999) [1080p].mp4
 Poor Things (2023) [1080p].mp4
 Popeye The Slayer Man (2025) [1080p].mkv
+Psycho Therapy The Shallow Tale Of A Writer Who Decided To Write About A Serial Killer (2024) [1080].mp4
 Raising Helen (2004) [1080p].mp4
 Rebel Moon Part Two The Scargiver (2024)[1080p].mkv
 Reign of Fire (2002) [1080p].mp4
@@ -1443,6 +1447,7 @@ Ricky Gervais Armageddon (2023) [1080p].mkv
 Ricky Gervais Armageddon (2023) [1080p].sfv
 Road House (2024) [1080p].mkv
 Road to Perdition (2002) [1080p].mkv
+RocketMan (1997) [BluRay] [1080p].mp4
 Role Play (2024) [1080p].mkv
 Rumours (2024) [1080p].mp4
 Sense and Sensibility (2024) [1080p].mkv
@@ -1618,6 +1623,9 @@ Andor S01E08 Narkina 5 [1080p].mkv
 Andor S01E09 Nobodys Listening [1080p].mkv
 Andor S01E10 One Way Out [1080p].mkv
 Andor S01E12 Rix Road [1080p].mkv
+Andor S02E01 [1080p].mkv
+Andor S02E02 Sagrona Teema [1080p].mkv
+Andor S02E03 Harvest [1080p].mkv
 Archer (2009) S10E01 [720p].mkv
 Archer (2009) S10E02 [720p].mkv
 Archer (2009) S10E03 [720p].mkv
@@ -11499,6 +11507,7 @@ The Wheel of Time S03E04 [1080p].mkv
 The Wheel of Time S03E05 [1080p].mkv
 The Wheel of Time S03E06 [1080p].mkv
 The Wheel of Time S03E07 [1080p].mkv
+The Wheel of Time S03E08 [1080p].mkv
 TheWheel of Time S02E1 [1080p].mkv
 TheWheel of Time S02E2 [1080p].mkv
 TheWheel of Time S02E3 [1080p].mkv

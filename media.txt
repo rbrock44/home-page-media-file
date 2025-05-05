@@ -1232,8 +1232,6 @@ Dune Prophecy S01E01 [1080p].mkv
 Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
 Dune Prophecy S01E04 [1080p].mkv
-The Last of Us S02E01 [1080p].mkv
-The Last of Us S02E02 [1080p].mkv
 Running Point S01E01 [1080p].mkv
 Running Point S01E010 [1080p].mkv
 Running Point S01E02 [1080p].mkv
@@ -9357,6 +9355,8 @@ The Last Kingdom S04E07 [1080p].mkv
 The Last Kingdom S04E08 [1080p].mkv
 The Last Kingdom S04E09 [1080p].mkv
 The Last Kingdom S04E10 [1080p].mkv
+The Last of Us S02E01 [1080p].mkv
+The Last of Us S02E02 [1080p].mkv
 The Last of Us S01E01 [1080p].mkv
 The Last of Us S01E02 [1080p].mkv
 The Last of Us S01E03 [1080p].mkv

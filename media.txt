@@ -1497,10 +1497,13 @@ The Shaft (2001) [1080p].mp4
 The Six Triple Eight (2024) [1080p].mp4
 The Substance (2024) [1080p].mp4
 The Thicket (2024) [720p].mkv
+The Ugly Stepsister (2025) [1080p].mp4
 The Watchers (2024) [1080p].mp4
 The Waterboy (1998) [1080p].mp4
 The Wedding Singer (1998) [1080p].mp4
 The Wonderful Story Of Henry Sugar And Three More (2024) [1080p].mp4
+Tin Soldier (2025) [1080p].jpg
+Tin Soldier (2025) [1080p].mp4
 Transformers One (2024) [1080p].mp4
 Trapped In The Rocky Mountains (2024) [1080p].mp4
 Trigger Warning (2024) [1080p].mp4
@@ -1633,6 +1636,9 @@ Andor S02E06 [1080p].mkv
 Andor S02E07 [1080p].mkv
 Andor S02E08 [1080p].mkv
 Andor S02E09 [1080p].mkv
+Andor S02E10 [1080p].mkv
+Andor S02E11 [1080p].mkv
+Andor S02E12 [1080p].mkv
 Archer (2009) S10E01 [720p].mkv
 Archer (2009) S10E02 [720p].mkv
 Archer (2009) S10E03 [720p].mkv
@@ -10468,6 +10474,16 @@ You S03E07 [720p].mkv
 You S03E08 [720p].mkv
 You S03E09 [720p].mkv
 You S03E10 [720p].mkv
+You  S05E01 [1080p].mkv
+You  S05E02 [1080p].mkv
+You  S05E03 [1080p].mkv
+You  S05E04 [1080p].mkv
+You  S05E05 [1080p].mkv
+You  S05E06 [1080p].mkv
+You  S05E07 [1080p].mkv
+You  S05E08 [1080p].mkv
+You  S05E09 [1080p].mkv
+You  S05E10 [1080p].mkv
 Yu-Gi-Oh! S01E01 001 The Heart of the Cards.mkv
 Yu-Gi-Oh! S01E02 002 The Gauntlet is Thrown.mkv
 Yu-Gi-Oh! S01E03 003 Journey to the Duelist Kingdom.mkv

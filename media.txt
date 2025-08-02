@@ -890,8 +890,6 @@ Scooby-Doo (2002)  [1080p] .mp4
 Scooby-Doo (2002) [1080p].mp4
 Scooby-Doo 2 Monsters Unleashed (2004) [1080p] .mp4
 Scott Pilgrim Vs The World (2010) [1080p].mp4
-Scream (2022) [1080p].mp4
-Scream VI (2023) [1080p].mkv
 se7en (1995) [720p].mkv
 Seal Team (2021) [1080p].mkv
 Secret Headquarters (2022) [1080p].mkv
@@ -1275,6 +1273,7 @@ WWE SummerSlam (2024).mp4
 WWE Survivor Series War Games (2024).mp4
 10 Things I Hate About You (1999) [1080p].mp4
 12th Fail (2023) [1080p].mkv
+28 Years Later (2025) [1080p].mp4
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
 A Complete Unknown (2024) [1080p].mp4
@@ -11012,6 +11011,12 @@ Die Hard (1988) [1080p].mp4
 Die Hard 2 Die Harder (1990) [1080p].mp4
 Die Hard 3 Die Hard With A Vengeance (1995) [1080p].mp4
 Die Hard 4.0 Live Free Or Die Hard (2007) [1080p].mp4
+Scream (1996) REMASTERED [1080p].mkv
+Scream (2022) [1080p].mp4
+Scream 2 (1997) [1080p].mp4
+Scream 3 (2000) [1080p]].mp4
+Scream 4 (2011) [1080p].mp4
+Scream VI (2023) [1080p].mkv
 Folklore The Long Pond Studio Sessions (2020) [1080p] .mp4
 Taylor Swift City of Lover Concert (2020) [1080p].mkv
 Taylor Swift Miss Americana (2020) [1080p].mkv

@@ -14,6 +14,6 @@
 ## 🧠 What's My Purpose?
 
 This repository hosts a txt file that is the initial seed of the media database read by [Home Page Api](https://github.com/rbrock44/home-page-api). 
-Another application [home-page-media-scraper](https://github.com/rbrock44/home-page-media-scraper) was built (and ran on a scehdule) to keep this repo up do date with the [Home Page Api - LIVE Media database]([https://home-page-api.ryan-brock.com/cleaning-schedule](https://home-page-api.ryan-brock.com/home-media-search?criteria=))
+Another application [home-page-media-scraper](https://github.com/rbrock44/home-page-media-scraper) was built (and ran on a scehdule) to keep this repo up do date with the [Home Page Api - LIVE Media database](https://home-page-api.ryan-brock.com/home-media-search?criteria=)
 
 ---

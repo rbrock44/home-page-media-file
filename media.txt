@@ -1388,6 +1388,7 @@ Here (2024) [1080p].mp4
 Heretic (2024) [1080p].mp4
 Hes Just Not That Into You (2009) [1080p].mp4
 Holland (2025) [1080p].mp4
+How To Train Your Dragon (2025) [1080p].mp4
 I Now Pronounce You Chuck and Larry (2007) [1080p].mp4
 Ice Princess (2005) [1080p].mp4
 IF (2024) [1080p].mp4
@@ -1397,6 +1398,7 @@ Into The Deep (2025) [1080p].mp4
 It Ends With Us (2024) [1080p].mp4
 Its Whats Inside (2024) [1080p].mp4
 Joker Folie a Deux (2024) [1080p].mp4
+Jurassic World Rebirth (2025) [1080p].mp4
 Juror 2 (2024) [1080p].mkv
 Justice League Crisis On Infinite Earths Part Three (2024) [1080p].mp4
 Karate Kid Legends (2025) [1080p].mp4
@@ -1476,6 +1478,7 @@ Speak no Evil (2024)[1080p].mkv
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
+Superman (2025) [1080p].mp4
 IndexerVolumeGuid
 WPSettings.dat
 Terry Pratchett's Hogfather (2006) [1080p].mp4

@@ -4624,6 +4624,7 @@ Gen V S02E02 [1080p].mkv
 Gen V S02E03 [1080p].mkv.mkv
 Gen V S02E04 [1080p].mkv.mkv
 Gen V S02E05 [1080p].mkv.mkv
+Gen V S02E06 [1080p].mkv
 Good Omens S02E01 [1080p].mkv
 Good Omens S02E02 [1080p].mkv
 Good Omens S02E03 [1080p].mkv
@@ -11974,6 +11975,7 @@ Animatic -Why Must I be a Crustacean in Love.mkv
 Futurama Game Trailer.mkv
 An X-Mas Message From David X. Cohen.mkv
 Deleted Scenes.mkv
+Gen V S02E05 [1080p].mkv
 Gekijouben Overlord 1 - Fushisha no Ou.mkv
 Gekijouben Overlord 2 - Shikkoku no Eiyuu.mkv
 Overlord NCED.mkv

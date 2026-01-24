@@ -1332,6 +1332,7 @@ Click (2006) [1080p].mp4
 Colin Jost Michael Che Present New York After Dark (2024) [1080p].mp4
 Collateral (2004) [1080p].mp4
 Conclave (2024) [1080p].mp4
+Cool Runnings (1993) [1080p].mp4
 Crazy Rich Asians (2018) [1080p].mp4
 Dallas Buyers Club (2013) [1080p].mp4
 Damaged (2024) [1080p].mkv
@@ -1342,6 +1343,7 @@ Dear Santa (2024) [1080p].mp4
 Death of a Unicorn (2025) [1080p].mkv
 Deep Cover (2025) [1080p].mp4
 Deep Impact (1998) [1080p].mp4
+Definitely Maybe (2008) [1080p].mkv
 Demon Slayer Kimetsu No Yaiba Infinity Castle (2025) [1080p].mkv
 Den Of Thieves (2018) [1080p].mp4
 Den Of Thieves 2 Pantera (2025).mp4
@@ -1406,6 +1408,7 @@ Its Whats Inside (2024) [1080p].mp4
 Joker Folie a Deux (2024) [1080p].mp4
 Jurassic World Rebirth (2025) [1080p].mp4
 Juror 2 (2024) [1080p].mkv
+Just Friends (2005) [1080p].mp4
 Justice League Crisis On Infinite Earths Part Three (2024) [1080p].mp4
 Karate Kid Legends (2025) [1080p].mp4
 Kung Fu Games (2024) [720p].mp4
@@ -1420,6 +1423,7 @@ Love Jones (1997) [1080p].jpg
 Love Jones (1997) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
 Madame Web (2024) [1080p].mkv
+Maid In Manhattan (2002) [1080p].mp4
 Mamma Mia! (2008) [1080p].mp4
 Mamma Mia! Here We Go Again (2018) [1080p].mp4
 Marmalade (2024) [1080p].mkv
@@ -1497,6 +1501,7 @@ Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
 Superman (2025) [1080p].mp4
+Sweet Home Alabama (2002)[1080p].mp4
 IndexerVolumeGuid
 WPSettings.dat
 Terry Pratchett's Hogfather (2006) [1080p].mp4
@@ -1515,6 +1520,7 @@ The Full Monty (1997) [1080p].mp4
 The Giver (2014) [1080p].mp4
 The Gorge (2025) [1080p].mp4
 The Greatest of All Time (2024) [1080p].mkv
+The Holiday (2006) [1080p].mkv
 The Hustle (2019) [1080p].mp4
 The Idea Of You (2024) [1080p].mp4
 The Intern (2015) [1080p].mp4
@@ -1538,6 +1544,7 @@ The Thursday Murder Club (2025) [1080].mp4
 The Ugly Stepsister (2025) [1080p].mp4
 The Watchers (2024) [1080p].mp4
 The Waterboy (1998) [1080p].mp4
+The Wedding Planner (2001) [1080p].mp4
 The Wedding Singer (1998) [1080p].mp4
 The Women (2008)[1080p].mp4
 The Wonderful Story Of Henry Sugar And Three More (2024) [1080p].mp4
@@ -1556,6 +1563,7 @@ Under Fire (2025) [1080p].mp4
 Utopia (2024) [1080p].mkv
 V H S Beyond (2024) [1080p].mp4
 Venom The Last Dance (2024) [1080p].mp4
+Waitress (2007) [1080p].mkv
 Warfare (2025) [1080p].mp4
 We Are Marshall (2006).mkv
 We Beat The Dream Team (2025) [1080p].mp4

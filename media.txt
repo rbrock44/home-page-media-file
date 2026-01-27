@@ -394,6 +394,7 @@ Westworld S03E08 Crisis Theory [1080p].mkv
 Wynonna Earp S03E01.mkv
 Friends The Reunion (2021) [1080p].mkv
 Ralph Breaks the Internet (2018) [1080p].mp4
+Taylor Swift The Eras Tour (2023) [1080p].mkv
 1917 (2019) [1080p].mp4
 21 (2008) [1080p].mp4
 28 Days (2000) [1080p].mp4
@@ -649,7 +650,7 @@ Hook (1991) REMASTERED [1080p].mp4
 Hope Floats (1998) [1080p].mp4
 Horrible Bosses (2011) EXTENDED [1080p].mp4
 Horrible Bosses 2 (2014) EXTENDED [1080p].mp4
-Hot Fuzz (2007) REMASTERED PROPER [1080p].mp4
+Hot Fuzz (2007) [1080p].mp4
 Hot Tub Time Machine (2010) [1080p].mp4
 Hot Tub Time Machine 2 (2015) UNRATED [1080p].idx
 Hot Tub Time Machine 2 (2015) UNRATED [1080p].mp4
@@ -891,7 +892,7 @@ Serenity (2019) [1080p].mp4
 Shanghai Knights (2003) [1080p].mp4
 Shark Tale (2004) [720p].idx
 Shark Tale (2004) [720p].mp4
-Shaun of the Dead (2004) REMASTERED PROPER [1080p].mp4
+Shaun of the Dead (2004) [1080p].mp4
 Shazam Fury of the Gods (2023) [1080p].mp4
 Sherlock Holmes (2009) [1080p].mp4
 Sherlock Holmes A Game of Shadows (2011) [1080p].mp4
@@ -959,7 +960,6 @@ Sweetwater (2023) [1080p].mp4
 Talladega Nights The Ballad Of Ricky Bobby (2006) UNRATED [1080p].mp4
 Tangled (2010) PROPER [1080p].mp4
 Tarzan (1999) [1080p].mp4
-Taylor Swift The Eras Tour (2023) [1080p].mkv
 Taylor Swift The Eras Tour (2023) [1080p].mkv
 Ted K (2021) [1080p].mkv
 Tenacious D in The Pick of Destiny (2006) [1080p].mp4
@@ -1351,11 +1351,12 @@ Die Alone (2024) [1080p].mp4
 Die Hart 2 Die Harter (2024) [1080p].mkv
 Disturbia (2007) [1080p].mp4
 Dont Look Under the Bed (1999) [1080p].mkv
-Dumplin (2018) [WEBRip] [1080p].mp4
+Dumplin (2018) [1080p].mp4
 Dune Part Two (2024) [1080p].mkv
 Eileen (2023) [1080p].mkv
 Elevation (2024) [1080p].mp4
 Emilia Perez (2024) [1080p].mp4
+Encino Man (1992) [1080p].mp4
 Eternity (2025) [1080p].mp4
 Evan Almighty (2007) [1080p].mkv
 Failure to Launch (2006) [1080p].mp4
@@ -1459,14 +1460,6 @@ Old Guy (2024) [1080p].mp4
 Ordinary Angels (2024) [1080p].mkv
 Parallel (2024) [720p].mkv
 People We Meet On Vacation (2026) [1080p].mp4
-Pirates of the Caribbean - At Worlds End (2007) [1080p].mp4
-Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p].mp4
-Pirates of the Caribbean - Dead Man's Chest (2006) [1080p].mp4
-Pokemon 3 The Movie Spell Of The Unown (2000) [1080p].mp4
-Pokemon 4Ever Celebi - Voice Of The Forest (2001) [1080p].mp4
-Pokemon Heroes (2002) [1080p].mp4
-Pokemon The First Movie Mewtwo Strikes Back (1998) [1080p].mp4
-Pokemon The Movie 2000 (1999) [1080p].mp4
 Poor Things (2023) [1080p].mp4
 Popeye The Slayer Man (2025) [1080p].mkv
 Psycho Therapy The Shallow Tale Of A Writer Who Decided To Write About A Serial Killer (2024) [1080].mp4
@@ -1480,7 +1473,7 @@ Ricky Gervais Armageddon (2023) [1080p].mkv
 Ricky Gervais Armageddon (2023) [1080p].sfv
 Road House (2024) [1080p].mkv
 Road to Perdition (2002) [1080p].mkv
-RocketMan (1997) [BluRay] [1080p].mp4
+RocketMan (1997) [1080p].mp4
 Role Play (2024) [1080p].mkv
 Rumours (2024) [1080p].mp4
 Sense and Sensibility (2024) [1080p].mkv
@@ -1557,6 +1550,7 @@ Trigger Warning (2024) [1080p].mp4
 Tropic Thunder (2008) [1080p].mp4
 Twister (1996) [1080p].mkv
 Twisters (2024) [1080p].mp4
+Two Weeks Notice (2002)[1080p].mp4
 UFC 310 Pantoja vs Asakura [1080p].mkv
 Uglies (2024) [1080p].mp4
 Under Fire (2025) [1080p].mp4
@@ -10885,6 +10879,12 @@ Toy Story 2 (1999) [1080p].mp4
 Toy Story 3 (2010) [1080p].mp4
 Toy Story 4 (2019) [72].mkv
 Up (2009) [1080p].mp4
+Scream (1996) REMASTERED [1080p].mkv
+Scream (2022) [1080p].mp4
+Scream 2 (1997) [1080p].mp4
+Scream 3 (2000) [1080p]].mp4
+Scream 4 (2011) [1080p].mp4
+Scream VI (2023) [1080p].mkv
 Star Wars Episode I The Phantom Menance (1999) 720p.mkv
 Star Wars Ep 2 Attack of the Clones (2002) 720p.mkv
 Star Wars Episode III Revenge of the Sith (2005) [720p].mkv
@@ -10898,6 +10898,10 @@ Star Wars Episode VII The Force Awakens (2015) [1080p].mkv
 Episode VIII The Last Jedi (2017) [1080p].mp4
 Rogue One, A Star Wars Story (2016) [1080p].mkv
 Solo A Star Wars Story (2018) [720p].mp4
+Folklore The Long Pond Studio Sessions (2020) [1080p] .mp4
+Taylor Swift City of Lover Concert (2020) [1080p].mkv
+Taylor Swift Miss Americana (2020) [1080p].mkv
+Taylor Swift Reputation Stadium Tour (2018) [1080p].mp4
 Dark Phoenix (2019) [1080p].mp4
 Deadpool (2016) [1080p].idx
 deadpool (2016) [1080p].jpg
@@ -11081,16 +11085,6 @@ Die Hard (1988) [1080p].mp4
 Die Hard 2 Die Harder (1990) [1080p].mp4
 Die Hard 3 Die Hard With A Vengeance (1995) [1080p].mp4
 Die Hard 4.0 Live Free Or Die Hard (2007) [1080p].mp4
-Scream (1996) REMASTERED [1080p].mkv
-Scream (2022) [1080p].mp4
-Scream 2 (1997) [1080p].mp4
-Scream 3 (2000) [1080p]].mp4
-Scream 4 (2011) [1080p].mp4
-Scream VI (2023) [1080p].mkv
-Folklore The Long Pond Studio Sessions (2020) [1080p] .mp4
-Taylor Swift City of Lover Concert (2020) [1080p].mkv
-Taylor Swift Miss Americana (2020) [1080p].mkv
-Taylor Swift Reputation Stadium Tour (2018) [1080p].mp4
 30 for 30 S03E32 The Good The Bad The Hungry [720p] ESPN.mkv
 A.P. Bio S01E01 Pilot Catfish [1080p].mkv
 A.P. Bio S01E02 Teacher Jail [1080p].mkv
@@ -12151,9 +12145,25 @@ X-Men 97 S01E07 Bright Eyes [1080p].mkv
 X-Men 97 S01E08 Tolerance Is Extinction Part 1 [1080p].mkv
 X-Men 97 S01E09 Tolerance Is Exctinction Part 2 [1080p].mkv
 X-Men 97 S01E10 Tolerance is Extinction Part 3 [1080p].mkv
+Pokemon 3 The Movie Spell Of The Unown (2000) [1080p].mp4
+Pokemon 4Ever Celebi - Voice Of The Forest (2001) [1080p].mp4
+Pokemon Heroes (2002) [1080p].mp4
+Pokemon The First Movie Mewtwo Strikes Back (1998) [1080p].mp4
+Pokemon The Movie 2000 (1999) [1080p].mp4
+Davy Crockett and the River Pirates  (1956) [720p].mp4
+Davy Crockett King Of The Wild Frontier (1955) [1080p].mp4
+Pirates of the Caribbean - At Worlds End (2007) [1080p].mp4
+Pirates of the Caribbean - Curse of the Black Pearl (2003) [1080p].mp4
+Pirates of the Caribbean - Dead Man's Chest (2006) [1080p].mp4
 Blade (1998) [1080p].mp4
 Blade II (2002)[1080p].mp4
 Blade Trinity (2004)[1080p].mp4
+James Bond Casino Royale (2006) [1080p].mp4
+James Bond Quantum of Solace (2008) [1080p].mp4
+Skyfall (2012) [1080p].mp4
+Spectre (2015) [1080].en.ass
+Spectre (2015) [1080].mp4
+Chkdsk20240702022552.log
 Bring It On (2000) [1080p].mp4
 Bring It On Again (2004) [1080p].mp4
 Bring It On All Or Nothing (2006) [1080p].mp4
@@ -12161,14 +12171,6 @@ Bring It On Cheer Or Die (2022) [1080p].mp4
 Bring It On Fight to the Finish (2009) [1080p].mkv
 Bring It On In It To Win It (2007) [1080p].mp4
 Bring It On Worldwide Cheersmack (2017) [1080p].mp4
-Davy Crockett and the River Pirates  (1956) [720p].mp4
-Davy Crockett King Of The Wild Frontier (1955) [1080p].mp4
-James Bond Casino Royale (2006) [1080p].mp4
-James Bond Quantum of Solace (2008) [1080p].mp4
-Skyfall (2012) [1080p].mp4
-Spectre (2015) [1080].en.ass
-Spectre (2015) [1080].mp4
-Chkdsk20240702022552.log
 NCED 01.mkv
 NCED 02.mkv
 NCOP 01.mkv

@@ -1223,6 +1223,14 @@ Dune Prophecy S01E01 [1080p].mkv
 Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
 Dune Prophecy S01E04 [1080p].mkv
+Fallout (2024) S01E01 [1080p].mkv
+Fallout (2024) S01E02 [1080p].mkv
+Fallout (2024) S01E03 [1080p].mkv
+Fallout (2024) S01E04 [1080p].mkv
+Fallout (2024) S01E05 [1080p].mkv
+Fallout (2024) S01E06 [1080p].mkv
+Fallout (2024) S01E07 [1080p].mkv
+Fallout (2024) S01E08 [1080p].mkv
 Heated Rivalry (2025) S01E01 - Rookies [1080p].mkv
 Heated Rivalry (2025) S01E02 - Olympians [1080p].mkv
 Heated Rivalry (2025) S01E03 - Hunter [1080p].mkv
@@ -1376,10 +1384,12 @@ Fountain Of Youth (2025) [1080p].mp4
 Frankenstein (2025) [1080p].mp4
 Freakier Friday (2025) [1080p].mkv
 Freuds Last Session (2023) [1080p].mkv
+Fruitvale Station (2013) [1080p].mp4
 Furiosa A Mad Max Saga (2024) [1080].mp4
 G20 (2025) [1080p].mp4
 Galaxy Quest (1999) [1080p].mp4
 Ghostbusters Frozen Empire (2024) [1080p].mp4
+Gifted (2017) [1080p].mp4
 Gladiator II (2024) [1080p].mkv
 Godzilla Minus One (2023) [1080p].mkv
 Godzilla Minus One (2023) [1080p].mp4
@@ -1403,6 +1413,7 @@ Hellboy The Golden Army (2008) [1080p].mp4
 Here (2024) [1080p].mp4
 Heretic (2024) [1080p].mp4
 Hes Just Not That Into You (2009) [1080p].mp4
+Hidden Figures (2016) [1080p].mp4
 Holes (2003)[1080p].mp4
 Holland (2025) [1080p].mp4
 Honey Dont (2025) [1080p].mp4
@@ -1432,6 +1443,8 @@ Love Hurts (2025) [1080p].mp4
 Love Jones (1997) [1080p].jpg
 Love Jones (1997) [1080p].mp4
 Love, Rosie (2014) [1080p].mp4
+Luce (2019) [1080p].mp4
+Ma (2019) [1080p].mp4
 Madame Web (2024) [1080p].mkv
 Maid In Manhattan (2002) [1080p].mp4
 Mamma Mia! (2008) [1080p].mp4
@@ -1493,6 +1506,7 @@ Sicario (2015) [1080p].mp4
 Sidelined The QB and Me (2024) [1080p].mkv
 Sinners (2025) [1080p].mp4
 Small Things Like These (2024) [1080p].mp4
+Small Town Crime (2017)  [1080p].mp4
 Sniper The Last Stand (2025) [2160p].mkv
 Snow White And The Seven Samurai (2024) [1080p] .mp4
 Something Borrowed (2011) [1080p].mp4
@@ -1525,7 +1539,9 @@ The Full Monty (1997) [1080p].mp4
 The Giver (2014) [1080p].mp4
 The Gorge (2025) [1080p].mp4
 The Greatest of All Time (2024) [1080p].mkv
+The Help (2011) [1080p].mp4
 The Holiday (2006) [1080p].mkv
+The Housemaid (2025) [1080p].mp4
 The Hustle (2019) [1080p].mp4
 The Idea Of You (2024) [1080p].mp4
 The Intern (2015) [1080p].mp4

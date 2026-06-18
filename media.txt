@@ -1294,13 +1294,16 @@ WWE SmackDown (2026) 5 [1080].mp4
 310 to Yuma (2007) [1080p].mp4
 A Complete Unknown (2024) [1080p].mp4
 A Real Pain (2024) [1080p].mkv
+A River Runs Through It (1992) [1080p].mp4
 Abigail (2024) [1080p].mp4
 About Time (2013) [1080p].mp4
 Addicted To Love (1997) [1080p].mp4
 Agent Recon (2024) [1080p].mp4
 Air Force One Down (2024) [1080p].mkv
 Alien Romulus (2024) [1080p].mp4
+All Is Lost (2013) [1080p].mp4
 All Of Us Strangers (2023) [1080p].mp4
+All The President'S Men (1976) [1080p].mp4
 Anaconda (2025) [1080p].mp4
 Angels Fallen Warriors Of Peace (2024) [1080p].mp4
 Angels in the Outfield (1994) [720p].mkv
@@ -1348,6 +1351,7 @@ Captain Fantastic (2016) [1080p].mp4
 Casper (1995)  [1080p].mkv
 Casper Meets Wendy (1998).mkv
 Challengers (2024 ) [1080p].mkv
+Charlotte'S Web (2006) [1080p].mp4
 Chasing Amy (1997) [1080p].mp4
 Chicken Run (2000) [1080p].mkv
 Chicken Run Dawn of the Nugget (2023) [1080p].mkv
@@ -1440,6 +1444,7 @@ IF (2024) [1080p].mp4
 Immaculate (2024) [1080p].mp4
 In The Grey (2026) [1080p].mp4
 In The Heat Of The Night (1967) [1080p].mp4
+Indecent Proposal (1993) REMASTERED [1080p].mp4
 Into The Deep (2025) [1080p].mp4
 It Ends With Us (2024) [1080p].mp4
 Its Whats Inside (2024) [1080p].mp4
@@ -1509,6 +1514,7 @@ Parallel (2024) [720p].mkv
 Peaky Blinders The Immortal Man (2026) [1080p].mkv
 People We Meet On Vacation (2026) [1080p].mp4
 Peppermint (2018) [1080p].mp4
+Pete'S Dragon (2016) [1080p].mp4
 Poor Things (2023) [1080p].mp4
 Popeye The Slayer Man (2025) [1080p].mkv
 Psycho Therapy The Shallow Tale Of A Writer Who Decided To Write About A Serial Killer (2024) [1080].mp4
@@ -1544,6 +1550,7 @@ South Park Not Suitable For Children (2023) [1080p].mkv
 SOUTH PARK THE END OF OBESITY (2024) [1080p].mkv
 Spaceman (2024) [1080p].mkv
 Speak no Evil (2024)[1080p].mkv
+Spy Game (2001) [1080p].mkv
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
@@ -1570,6 +1577,7 @@ The Gorge (2025) [1080p].mp4
 The Greatest of All Time (2024) [1080p].mkv
 The Help (2011) [1080p].mp4
 The Holiday (2006) [1080p].mkv
+The Horse Whisperer (1998) [1080p].mp4
 The Housemaid (2025) [1080p].mp4
 The Hustle (2019) [1080p].mp4
 The Idea Of You (2024) [1080p].mp4
@@ -1592,18 +1600,21 @@ The Princess Diaries 2 Royal Engagement (2004) [1080p].mp4
 The Roast Of Tom Brady (2024) [1080p].mp4
 The Shaft (2001) [1080p].mp4
 The Six Triple Eight (2024) [1080p].mp4
+The Sting (1973) [1080p].mp4
 The Substance (2024) [1080p].mp4
 The Thicket (2024) [720p].mkv
 The Thursday Murder Club (2025) [1080].mp4
 The Ugly Stepsister (2025) [1080p].mp4
 The Watchers (2024) [1080p].mp4
 The Waterboy (1998) [1080p].mp4
+The Way We Were (1973) [1080p].mkv
 The Wedding Planner (2001) [1080p].mp4
 The Wedding Singer (1998) [1080p].mp4
 The Wizard Of Oz (1939) [1080p].mkv
 The Women (2008)[1080p].mp4
 The Wonderful Story Of Henry Sugar And Three More (2024) [1080p].mp4
 The Wrecking Crew (2026) [1080p].mp4
+Three Days Of The Condor (1975) [1080p].mp4
 Thunderbolts (2025) [1080p].mp4
 Tin Soldier (2025) [1080p].jpg
 Tin Soldier (2025) [1080p].mp4
@@ -12452,6 +12463,8 @@ Storyboard Comparisons.mkv
 Trailer.mkv
 Unraveling the Legacy of The Mummy.mkv
 Visual and Special Effects Formation.mkv
+Looking Back.mkv
+Trailer.mkv
 Bring It On (2000) [1080p].mp4
 Bring It On Again (2004) [1080p].mp4
 Bring It On All Or Nothing (2006) [1080p].mp4

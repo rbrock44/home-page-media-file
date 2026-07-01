@@ -1326,6 +1326,7 @@ Beetlejuice Beetlejuice (2024) [1080p].mp4
 Better Man (2024) [1080p].mp4
 Big Daddy (1999) [1080p].mp4
 Big Fish (2003) [1080p].mkv
+Big Trouble (2002) [1080p].mkv
 Bill Burr Drop Dead Years (2025) [1080p].mkv
 mediainfo.txt
 screenshot_10min.jpg
@@ -1599,6 +1600,7 @@ The Princess Diaries (2001) [1080p].mp4
 The Princess Diaries 2 Royal Engagement (2004) [1080p].mp4
 The Roast Of Tom Brady (2024) [1080p].mp4
 The Shaft (2001) [1080p].mp4
+The Sheep Detectives (2026) [1080p].mkv
 The Six Triple Eight (2024) [1080p].mp4
 The Sting (1973) [1080p].mp4
 The Substance (2024) [1080p].mp4
@@ -1631,6 +1633,7 @@ Under Fire (2025) [1080p].mp4
 Utopia (2024) [1080p].mkv
 V H S Beyond (2024) [1080p].mp4
 Venom The Last Dance (2024) [1080p].mp4
+Voicemails For Isabelle (2026) [1080p].mp4
 Waitress (2007) [1080p].mkv
 Warfare (2025) [1080p].mp4
 We Are Marshall (2006).mkv
@@ -5383,6 +5386,8 @@ House of the Dragon S01E09 [1080p].mkv
 House Of The Dragon S01E10 [1080p].mkv
 House Of The Dragon S02E01  [1080p].mkv
 House of the Dragon S02E02 [1080p].mkv
+House Of The Dragon S03E01 REPACK [1080p].mkv
+House Of The Dragon S03E02 [1080p].mkv
 Humans S01E01 [1080p].mkv
 Humans S01E02 [1080p].mkv
 Humans S01E03 [1080p].mkv
@@ -7503,6 +7508,9 @@ Rick and Morty S08E10 [1080p].mkv
 Rick And Morty S09E01 Theres Something About Morty [1080p].mkv
 Rick And Morty S09E02 [1080p].mkv
 Rick And Morty S09E03 Rick Fu Hustle [1080p].mkv
+Rick And Morty S09E04 [1080p].mkv
+Rick And Morty S09E05 Jer Bud [1080p].mkv
+Rick And Morty S09E06 [1080p].mkv
 Samurai Jack S01E01 [1080p].mkv
 Samurai Jack S01E02 [1080p].mkv
 Samurai Jack S01E03 [1080p].mkv
@@ -9068,6 +9076,14 @@ The Bear S04E06 [1080p].mkv
 The Bear S04E07 [1080p].mkv
 The Bear S04E08 [1080p].mkv
 The Bear S04E09 [1080p].mkv
+The Bear S05E01 [1080p].mkv
+The Bear S05E02 [1080p].mkv
+The Bear S05E03 [1080p].mkv
+The Bear S05E04 [1080p].mkv
+The Bear S05E05 [1080p].mkv
+The Bear S05E06 [1080p].mkv
+The Bear S05E07 [1080p].mkv
+The Bear S05E08 [1080p].mkv
 The Big Bang Theory S01E01 [1080p].mkv
 The Big Bang Theory S01E02 [1080p].mkv
 The Big Bang Theory S01E03 [1080p].mkv
@@ -11272,6 +11288,21 @@ Atlanta S04E07 [1080p].mp4
 Atlanta S04E08 [1080p].mp4
 Atlanta S04E09 [1080p].mp4
 Atlanta S04E10 [1080p].mp4
+Avatar - The Last Airbender - S02E01 - Somewhere Safe.mkv
+Avatar - The Last Airbender - S02E02 - A Fight, Once Begun.mkv
+Avatar - The Last Airbender - S02E03 - City of Walls and Secrets.mkv
+Avatar - The Last Airbender - S02E04 - The Water Falls, the Stones Emerge.mkv
+Avatar - The Last Airbender - S02E05 - Ten Thousand Things.mkv
+Avatar - The Last Airbender - S02E06 - The Parable of the Two Dragons.mkv
+Avatar - The Last Airbender - S02E07 - Something Broken.mkv
+S01E01 Aang.mkv
+S01E02 Warriors.mkv
+S01E03 Omashu.mkv
+S01E04 Into The Dark.mkv
+S01E05 Spirited Away.mkv
+S01E06 Masks.mkv
+S01E07 The North.mkv
+S01E08 Legends.mkv
 BSG S03E01 Occupation [1080p].mkv
 BSG S03E02 Precipice [1080p].mkv
 BSG S03E03 Exodus Part 1 [1080p].mkv
@@ -11552,6 +11583,53 @@ Griselda S01E03 [1080p].mkv
 Griselda S01E04 [1080p].mkv
 Griselda S01E05 [1080p].mkv
 Griselda S01E06 [1080p].mkv
+Hacks (2021) S01E01 There Is No Line [1080p].mkv
+Hacks (2021) S01E02 Primm [1080p].mkv
+Hacks (2021) S01E03 A Gig’s A Gig [1080p].mkv
+Hacks (2021) S01E04 D’Jewelry [1080p].mkv
+Hacks (2021) S01E05 Falling [1080p].mkv
+Hacks (2021) S01E06 New Eyes [1080p].mkv
+Hacks (2021) S01E07 Tunnel of Love [1080p].mkv
+Hacks (2021) S01E08 1 69 Million [1080p].mkv
+Hacks (2021) S01E09 Interview [1080p].mkv
+Hacks (2021) S01E10 I Think She Will [1080p].mkv
+Hacks (2021) S02E01 There Will Be Blood [1080p].mkv
+Hacks (2021) S02E02 Quid Pro Quo [1080p].mkv
+Hacks (2021) S02E03 Trust the Process [1080p].mkv
+Hacks (2021) S02E04 The Captain's Wife [1080p].mkv
+Hacks (2021) S02E05 Retired [1080p].mkv
+Hacks (2021) S02E06 The Click [1080p].mkv
+Hacks (2021) S02E07 On the Market [1080p].mkv
+Hacks (2021) S02E08 The One, The Only [1080p].mkv
+Hacks (2021) S03E01 Just for Laughs [1080p].mkv
+Hacks (2021) S03E02 Better Late [1080p].mkv
+Hacks (2021) S03E03 The Roast of Deborah Vance [1080p].mkv
+Hacks (2021) S03E04 Join the Club [1080p].mkv
+Hacks (2021) S03E05 One Day [1080p].mkv
+Hacks (2021) S03E06 Par for the Course [1080p].mkv
+Hacks (2021) S03E07 The Deborah Vance Christmas Spectacular [1080p].mkv
+Hacks (2021) S03E08 Yes, And [1080p].mkv
+Hacks (2021) S03E09 Bulletproof [1080p].mkv
+Hacks (2021) S04E01 [1080p].mkv
+Hacks (2021) S04E02 [1080p].mkv
+Hacks (2021) S04E03 [1080p].mkv
+Hacks (2021) S04E04 [1080p].mkv
+Hacks (2021) S04E05 [1080p].mkv
+Hacks (2021) S04E06 [1080p].mkv
+Hacks (2021) S04E07 [1080p].mkv
+Hacks (2021) S04E08 [1080p].mkv
+Hacks (2021) S04E09 [1080p].mkv
+Hacks (2021) S04E10 [1080p].mkv
+Hacks (2021) - S05E01 - EGOT [1080p].mkv
+Hacks (2021) - S05E02 - Number One Fan [1080p].mkv
+Hacks (2021) - S05E03 - No New Tricks [1080p].mkv
+Hacks (2021) - S05E04 - Who's Making Dinner [1080p].mkv
+Hacks (2021) - S05E05 - D'Amazing Race [1080p].mkv
+Hacks (2021) - S05E06 - QuikScribbl [1080p].mkv
+Hacks (2021) - S05E07 - Montecito [1080p].mkv
+Hacks (2021) - S05E08 - The Cube [1080p].mkv
+Hacks (2021) - S05E09 - The Garden [1080p].mkv
+Hacks (2021) - S05E10 - Hacks [1080p].mkv
 Hazbin Hotel (2024) - S01E01 - Overture [1080p].mkv
 Hazbin Hotel (2024) - S01E02 - Radio Killed the Video Star [1080p].mkv
 Hazbin Hotel (2024) - S01E03 - Scrambled Eggs [1080p].mkv
@@ -12417,6 +12495,54 @@ Widows Bay S01E06 [1080p].mkv
 Widows Bay S01E07 [1080p].mkv
 Widows Bay S01E08 Your Baggage [1080p].mkv
 Widows Bay S01E09 Emergency Shelter [1080p].mkv
+World War II With Tom Hanks S01E01 [1080p] 2.png
+World War II With Tom Hanks S01E01 [1080p] 3.png
+World War II With Tom Hanks S01E01 [1080p] 4.png
+World War II With Tom Hanks S01E01 [1080p].mkv
+World War II With Tom Hanks S01E01 [1080p].png
+World War II With Tom Hanks S01E02 [1080p] 2.png
+World War II With Tom Hanks S01E02 [1080p] 3.png
+World War II With Tom Hanks S01E02 [1080p] 4.png
+World War II With Tom Hanks S01E02 [1080p].mkv
+World War II With Tom Hanks S01E02 [1080p].png
+World War II With Tom Hanks S01E03 [1080p].mkv
+World War II With Tom Hanks S01E04 [1080p] 2.png
+World War II With Tom Hanks S01E04 [1080p] 3.png
+World War II With Tom Hanks S01E04 [1080p] 4.png
+World War II With Tom Hanks S01E04 [1080p].mkv
+World War II With Tom Hanks S01E04 [1080p].png
+World War II With Tom Hanks S01E05 [1080p] 2.png
+World War II With Tom Hanks S01E05 [1080p] 3.png
+World War II With Tom Hanks S01E05 [1080p] 4.png
+World War II With Tom Hanks S01E05 [1080p].mkv
+World War II With Tom Hanks S01E05 [1080p].png
+World War II With Tom Hanks S01E06 [1080p] 2.png
+World War II With Tom Hanks S01E06 [1080p] 3.png
+World War II With Tom Hanks S01E06 [1080p] 4.png
+World War II With Tom Hanks S01E06 [1080p].mkv
+World War II With Tom Hanks S01E06 [1080p].png
+World War II With Tom Hanks S01E07 [1080p] 2.png
+World War II With Tom Hanks S01E07 [1080p] 3.png
+World War II With Tom Hanks S01E07 [1080p] 4.png
+World War II With Tom Hanks S01E07 [1080p].mkv
+World War II With Tom Hanks S01E07 [1080p].png
+World War II With Tom Hanks S01E08 [1080p] 2.png
+World War II With Tom Hanks S01E08 [1080p] 3.png
+World War II With Tom Hanks S01E08 [1080p] 4.png
+World War II With Tom Hanks S01E08 [1080p].mkv
+World War II With Tom Hanks S01E08 [1080p].png
+World War II With Tom Hanks S01E09 [1080p] 2.png
+World War II With Tom Hanks S01E09 [1080p] 3.png
+World War II With Tom Hanks S01E09 [1080p] 4.png
+World War II With Tom Hanks S01E09 [1080p].mkv
+World War II With Tom Hanks S01E09 [1080p].png
+World War II With Tom Hanks S01E10 [1080p] 2.png
+World War II With Tom Hanks S01E10 [1080p] 3.png
+World War II With Tom Hanks S01E10 [1080p] 4.png
+World War II With Tom Hanks S01E10 [1080p].mkv
+World War II With Tom Hanks S01E10 [1080p].png
+World War II With Tom Hanks S01E11 [1080p].mkv
+World War II With Tom Hanks S01E12 Battle For The Skies [1080p].mkv
 WrestleMania 40 Saturday.mp4
 WrestleMania 40 Sunday.mp4
 WWE Backlash France (2024).mp4

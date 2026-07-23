@@ -1318,6 +1318,7 @@ Austin Powers The Spy Who Shagged Me (1999) [1080p].mp4
 Azrael (2024) [1080p].mp4
 Baby Mama (2008) [1080p].mp4
 Back in Action (2025) [1080p].mkv
+Backrooms (2026) [1080p].mp4
 Bad Boys Ride Or Die (2024) [1080p].mp4
 Ballerina (2025) [1080p].mp4
 Balls Up (2026) [1080p].mkv
@@ -1380,6 +1381,7 @@ Den Of Thieves (2018) [1080p].mp4
 Den Of Thieves 2 Pantera (2025).mp4
 Die Alone (2024) [1080p].mp4
 Die Hart 2 Die Harter (2024) [1080p].mkv
+Disclosure Day (2026) [1080p].mp4
 Disturbia (2007) [1080p].mp4
 Dont Look Under the Bed (1999) [1080p].mkv
 Dumplin (2018) [1080p].mp4
@@ -1532,6 +1534,7 @@ Road to Perdition (2002) [1080p].mkv
 RocketMan (1997) [1080p].mp4
 Role Play (2024) [1080p].mkv
 Rumours (2024) [1080p].mp4
+Scary Movie Extended Cut (2026) [1080p].mkv
 Send Help (2026) [1080p].mp4
 Sense and Sensibility (2024) [1080p].mkv
 Serenity (2005) [1080p].mp4
@@ -1565,6 +1568,7 @@ The Beautician And The Beast (1997) [1080p] .mp4
 The Beekeeper (2024) [1080p].mkv
 The Best Christmas Pageant Ever (2024) [108op].mp4
 The Bricklayer (2023) [1080p].mkv
+The Death Of Robin Hood (2026)  [1080p].mp4
 The Devil Wears Prada (2006) [1080p].mp4
 The Devil Wears Prada 2 (2026) [1080p].mkv
 The Electric State (2025) [1080p].mkv
@@ -1573,6 +1577,7 @@ The Family Stone (2005) [1080p].mkv
 The Fantastic Four First Steps (2025) [1080p].mp4
 The Forbidden Kingdom (2008) [1080p] .mp4
 The Full Monty (1997) [1080p].mp4
+The Furious (2025) [1080p].mkv
 The Giver (2014) [1080p].mp4
 The Gorge (2025) [1080p].mp4
 The Greatest of All Time (2024) [1080p].mkv
@@ -1624,6 +1629,7 @@ Transformers One (2024) [1080p].mp4
 Trapped In The Rocky Mountains (2024) [1080p].mp4
 Trigger Warning (2024) [1080p].mp4
 Tropic Thunder (2008) [1080p].mp4
+Tuner (2025) [1080p].mp4
 Twister (1996) [1080p].mkv
 Twisters (2024) [1080p].mp4
 Two Weeks Notice (2002)[1080p].mp4
@@ -5385,9 +5391,19 @@ House of the Dragon S01E08 The Lord of the Tides [1080p].mkv
 House of the Dragon S01E09 [1080p].mkv
 House Of The Dragon S01E10 [1080p].mkv
 House Of The Dragon S02E01  [1080p].mkv
-House of the Dragon S02E02 [1080p].mkv
+House Of The Dragon S02E01 [1080p].mkv
+House Of The Dragon S02E02 [1080p].mkv
+House Of The Dragon S02E03 [1080p].mkv
+House Of The Dragon S02E04 [1080p].mkv
+House Of The Dragon S02E05 [1080p].mkv
+House Of The Dragon S02E06 [1080p].mkv
+House Of The Dragon S02E07 iNTERNAL [1080p].mkv
+House Of The Dragon S02E08 [1080p].mkv
 House Of The Dragon S03E01 REPACK [1080p].mkv
 House Of The Dragon S03E02 [1080p].mkv
+House Of The Dragon S03E03 [1080p].mkv
+House Of The Dragon S03E04 [1080p].mkv
+House Of The Dragon S03E05 [1080p].mkv
 Humans S01E01 [1080p].mkv
 Humans S01E02 [1080p].mkv
 Humans S01E03 [1080p].mkv
@@ -7512,6 +7528,8 @@ Rick And Morty S09E04 [1080p].mkv
 Rick and Morty S09E05 Jer Bud [1080p].mkv
 Rick and Morty S09E06 [1080p].mkv
 Rick and Morty S09E07 [1080p].mkv
+Rick And Morty S09E08 [1080p].mkv
+Rick And Morty S09E09 [1080p].mkv
 Samurai Jack S01E01 [1080p].mkv
 Samurai Jack S01E02 [1080p].mkv
 Samurai Jack S01E03 [1080p].mkv
@@ -11010,6 +11028,7 @@ Star Wars Episode VII The Force Awakens (2015) [1080p].mkv
 Episode VIII The Last Jedi (2017) [1080p].mp4
 Rogue One, A Star Wars Story (2016) [1080p].mkv
 Solo A Star Wars Story (2018) [720p].mp4
+The Mandalorian And Grogu (2026) [1080p].mp4
 Folklore The Long Pond Studio Sessions (2020) [1080p] .mp4
 Taylor Swift City of Lover Concert (2020) [1080p].mkv
 Taylor Swift Miss Americana (2020) [1080p].mkv

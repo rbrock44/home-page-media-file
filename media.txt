@@ -1292,6 +1292,7 @@ WWE SmackDown (2026) 5 [1080].mp4
 28 Years Later The Bone Temple (2026) [1080p].mkv
 3 10 To Yuma (1957) [1080p].mp4
 310 to Yuma (2007) [1080p].mp4
+72 Hours (2026) [1080p].mp4
 A Complete Unknown (2024) [1080p].mp4
 A Real Pain (2024) [1080p].mkv
 A River Runs Through It (1992) [1080p].mp4
@@ -1315,6 +1316,7 @@ Atlas (2024) [1080p].mp4
 Austin Powers Goldmember (2002) [1080p].mp4
 Austin Powers International Man of Mystery (1997) [1080p].mp4
 Austin Powers The Spy Who Shagged Me (1999) [1080p].mp4
+Avatar Aang The Last Airbender (2026) [1080p].mkv
 Azrael (2024) [1080p].mp4
 Baby Mama (2008) [1080p].mp4
 Back in Action (2025) [1080p].mkv
@@ -1462,6 +1464,7 @@ Kung Fu Games (2024) [720p].mp4
 Land of Bad (2024) [1080p].mp4
 Last Breath (2025) [1080p].mp4
 Les Miserables (2012) [1080p].mp4
+Leviticus (2026) [1080p].mp4
 Lord of War (2005) [1080p].mp4
 Love Actually (2003) Remastered [1080p].mkv
 Love Actually (2003) [1080p].mp4
@@ -1558,6 +1561,9 @@ Spy Game (2001) [1080p].mkv
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
+Supergirl (2026) [1080p].mp4
+YTS.GG - Official site.jpg
+YTSYifyUP... (TOR).txt
 Superman (2025) [1080p].mp4
 Sweet Home Alabama (2002)[1080p].mp4
 IndexerVolumeGuid
@@ -1571,6 +1577,8 @@ The Bricklayer (2023) [1080p].mkv
 The Death Of Robin Hood (2026)  [1080p].mp4
 The Devil Wears Prada (2006) [1080p].mp4
 The Devil Wears Prada 2 (2026) [1080p].mkv
+The Devils Mouth (2026) [1080p].mkv
+The Dink (2026) [1080p].mkv
 The Electric State (2025) [1080p].mkv
 The Fall Guy (2024)  [4K] .mkv
 The Family Stone (2005) [1080p].mkv
@@ -1578,6 +1586,7 @@ The Fantastic Four First Steps (2025) [1080p].mp4
 The Forbidden Kingdom (2008) [1080p] .mp4
 The Full Monty (1997) [1080p].mp4
 The Furious (2025) [1080p].mkv
+The Gentleman Thief (2026) [1080p].mkv
 The Giver (2014) [1080p].mp4
 The Gorge (2025) [1080p].mp4
 The Greatest of All Time (2024) [1080p].mkv
@@ -7530,6 +7539,7 @@ Rick and Morty S09E06 [1080p].mkv
 Rick and Morty S09E07 [1080p].mkv
 Rick And Morty S09E08 [1080p].mkv
 Rick And Morty S09E09 [1080p].mkv
+Rick And Morty S09E10 Field of Dreams [1080p].mkv
 Samurai Jack S01E01 [1080p].mkv
 Samurai Jack S01E02 [1080p].mkv
 Samurai Jack S01E03 [1080p].mkv
@@ -11672,6 +11682,26 @@ Heated Rivalry (2025) S01E03 - Hunter [1080p].mkv
 Heated Rivalry (2025) S01E04 - Rose [1080p].mkv
 Heated Rivalry (2025) S01E05 - I'll Believe in Anything [1080p].mkv
 Heated Rivalry (2025) S01E06 - The Cottage [1080p].mkv
+King Of The Hill S14E01 [1080p].mkv
+King Of The Hill S14E02 [1080p].mkv
+King Of The Hill S14E03 [1080p].mkv
+King Of The Hill S14E04 [1080p].mkv
+King Of The Hill S14E05 [1080p].mkv
+King Of The Hill S14E06 [1080p].mkv
+King Of The Hill S14E07 [1080p].mkv
+King Of The Hill S14E08 [1080p].mkv
+King Of The Hill S14E09 [1080p].mkv
+King Of The Hill S14E10 [1080p].mkv
+King Of The Hill S15E01 Failure to Hard Launch [1080p].mkv
+King Of The Hill S15E02 Care of the Dog [1080p].mkv
+King Of The Hill S15E03 Searching For Bobby Phisher [1080p].mkv
+King Of The Hill S15E04 Hank Encounters of the Nerd Kind [1080p].mkv
+King Of The Hill S15E05 The Best Little Marriage in Texas [1080p].mkv
+King Of The Hill S15E06 Ch-Ch-Ch-Changes [1080p].mkv
+King Of The Hill S15E07 Hank Ruffles Some Feathers [1080p].mkv
+King Of The Hill S15E08 No-Cuddle Offense [1080p].mkv
+King Of The Hill S15E09 Reality Bites [1080p].mkv
+King Of The Hill S15E10 Propane Recall [1080p].mkv
 Mr and Mrs Smith (2024) S01E01 [1080p].mkv
 Mr and Mrs Smith (2024) S01E02 [1080p].mkv
 Mr and Mrs Smith (2024) S01E03 [1080p].mkv

@@ -1518,6 +1518,7 @@ Torrent Downloaded From Uindex Org.txt
 Office Romance (2026) [1080p].mp4
 Old Guy (2024) [1080p].mp4
 Ordinary Angels (2024) [1080p].mkv
+Out Of Africa (1985) [1080p].mkv
 Over Your Dead Body (2026) [1080p].mp4
 Parallel (2024) [720p].mkv
 Peaky Blinders The Immortal Man (2026) [1080p].mkv
@@ -5419,6 +5420,9 @@ House Of The Dragon S03E02 [1080p].mkv
 House Of The Dragon S03E03 [1080p].mkv
 House Of The Dragon S03E04 [1080p].mkv
 House Of The Dragon S03E05 [1080p].mkv
+House Of The Dragon S03E06 [1080p].mkv
+House Of The Dragon S03E07 [1080p].mkv
+House Of The Dragon S03E08 [1080p].mkv
 Humans S01E01 [1080p].mkv
 Humans S01E02 [1080p].mkv
 Humans S01E03 [1080p].mkv
@@ -8760,6 +8764,9 @@ Ted Lasso S03E09 [1080p].mkv
 Ted Lasso S03E10 [1080p].mkv
 Ted Lasso S03E11 [1080p].mkv
 Ted Lasso S03E12 [1080p].mkv
+Ted Lasso S04E01 [1080p].mkv
+Ted Lasso S04E02 Curiouser and Curiouser [1080p].mkv
+Ted Lasso S04E03 [1080p].mkv
 01 Things Change.avi
 02 A Better Mousetrap.avi
 03 Attack of the Mousers.avi

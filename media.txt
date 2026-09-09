@@ -1241,9 +1241,6 @@ Dune Prophecy S01E01 [1080p].mkv
 Dune Prophecy S01E02 [1080p].mkv
 Dune Prophecy S01E03 [1080p].mkv
 Dune Prophecy S01E04 [1080p].mkv
-Lanterns (2026) S01E01 [1080p].mkv
-Lanterns (2026) S01E02 [1080p].mkv
-Lanterns (2026) S01E03 [1080p].mkv
 One Night in idaho The College Murders S01E01 [1080p].mkv
 One Night in idaho The College Murders S01E02 [1080p].mkv
 One Night in idaho The College Murders S01E03 [1080p].mkv
@@ -1497,6 +1494,7 @@ Michael (2026) [1080p].mp4
 Mickey 17 (2025) [1080p].mkv
 Millers Girl (2024) [1080p].mkv
 Minions Monsters (2026) [1080p].mp4
+Moana (2026) [1080p].mp4
 Moana 2 (2024) [1080p].mp4
 Monster House (2006) [1080p].mp4
 Monster Summer (2024) [1080p].mkv
@@ -11741,6 +11739,10 @@ King Of The Hill S15E07 Hank Ruffles Some Feathers [1080p].mkv
 King Of The Hill S15E08 No-Cuddle Offense [1080p].mkv
 King Of The Hill S15E09 Reality Bites [1080p].mkv
 King Of The Hill S15E10 Propane Recall [1080p].mkv
+Lanterns (2026) S01E01 [1080p].mkv
+Lanterns (2026) S01E02 [1080p].mkv
+Lanterns (2026) S01E03 [1080p].mkv
+Lanterns (2026) S01E04 [1080p].mkv
 Mr and Mrs Smith (2024) S01E01 [1080p].mkv
 Mr and Mrs Smith (2024) S01E02 [1080p].mkv
 Mr and Mrs Smith (2024) S01E03 [1080p].mkv

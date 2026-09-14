@@ -1530,6 +1530,7 @@ Peppermint (2018) [1080p].mp4
 Pete'S Dragon (2016) [1080p].mp4
 Poor Things (2023) [1080p].mp4
 Popeye The Slayer Man (2025) [1080p].mkv
+Practical Magic 2 (2026) [1080p].mkv
 Psycho Therapy The Shallow Tale Of A Writer Who Decided To Write About A Serial Killer (2024) [1080].mp4
 Raising Helen (2004) [1080p].mp4
 Rebel Moon Part Two The Scargiver (2024)[1080p].mkv
@@ -8780,6 +8781,7 @@ Ted Lasso S04E02 Curiouser and Curiouser [1080p].mkv
 Ted Lasso S04E03 [1080p].mkv
 Ted Lasso S04E04 [1080p].mkv
 Ted Lasso S04E05 Riches of Embarrassment [1080p].mkv
+Ted Lasso S04E06 Dont Jump Around Much Anymore [1080p].mkv
 01 Things Change.avi
 02 A Better Mousetrap.avi
 03 Attack of the Mousers.avi
@@ -11532,6 +11534,7 @@ Girls S02E08.mp4
 Girls S02E09.mp4
 Girls S02E10.mp4
 Read Me.txt
+Girls S03E01.en.eng
 Girls S03E01.mp4
 Girls S03E02.mp4
 Girls S03E03.mp4

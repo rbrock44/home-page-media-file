@@ -1305,6 +1305,7 @@ Abigail (2024) [1080p].mp4
 About Time (2013) [1080p].mp4
 Mars Express (2023) [1080p].mp4
 Masters Of The Universe (2026) [1080p].mkv
+Matchbox The Movie (2026) [1080p].mkv
 Me Myself And Irene (2000) [1080p].mkv
 Mean Girls (2024) [1080p].mkv
 Meet The Robinsons (2007) [1080p].mp4
@@ -1318,6 +1319,7 @@ Moana (2026) [1080p].mp4
 Moana 2 (2024) [1080p].mp4
 Monster House (2006) [1080p].mp4
 Monster Summer (2024) [1080p].mkv
+Moonstruck (1987) Criterion [1080p].mkv
 Mortal Kombat II (2026) [1080p].mp4
 Mother Of The Bride (2024) [1080p].mp4
 Mr. Deeds (2002) [1080p].mp4
@@ -1351,6 +1353,7 @@ Emilia Perez (2024) [1080p].mp4
 Encino Man (1992) [1080p].mp4
 Eternity (2025) [1080p].mp4
 Evan Almighty (2007) [1080p].mkv
+Face Off (1997) Restored [1080p].mkv
 Serenity (2005) [1080p].mp4
 Seven Snipers (2026) [1080p].mp4
 Shark Warning (2024) [1080p].mp4
@@ -1378,11 +1381,13 @@ The Painter (2024) [1080p].mp4
 The Princess Diaries (2001) [1080p].mp4
 The Princess Diaries 2 Royal Engagement (2004) [1080p].mp4
 The Roast Of Tom Brady (2024) [1080p].mp4
+The Rock (1996) [1080p].mkv
 The Runner (2026) [1080p].mp4
 The Shaft (2001) [1080p].mp4
 The Sheep Detectives (2026) [1080p].mkv
 The Simpsons Yellow Mirror (2026) [1080p].mkv
 The Six Triple Eight (2024) [1080p].mp4
+The Sorcerers Apprentice (2010) [1080p].mp4
 The Sting (1973) [1080p].mp4
 The Substance (2024) [1080p].mp4
 The Thicket (2024) [720p].mkv
@@ -1414,6 +1419,7 @@ Failure to Launch (2006) [1080p].mp4
 Godzilla X Kong The New Empire (2024) [2160p].mkv
 Hellboy The Golden Army (2008) [1080p].mp4
 It Ends With Us (2024) [1080p].mp4
+Last Breath (2025) [1080p].mp4
 Marmalade (2024) [1080p].mkv
 My Spy The Eternal City (2024) [1080p].mp4
 Poor Things (2023) [1080p].mp4
@@ -1439,6 +1445,7 @@ Harriet the Spy 1996 [1080p].mp4
 Hellboy (2004) [1080p].mkv
 Hellboy (2019)[1080p].mp4
 Hellboy The Crooked Man (2024) [1080p].mp4
+Next (2007) [1080p].mkv
 Next Goal Wins (2023) [1080p].mkv
 Night Of The Zoopocalypse (2024) [1080p].mp4
 Nightbitch (2024) [1080p].mp4
@@ -1458,6 +1465,7 @@ Peaky Blinders The Immortal Man (2026) [1080p].mkv
 People We Meet On Vacation (2026) [1080p].mp4
 Peppermint (2018) [1080p].mp4
 Pete'S Dragon (2016) [1080p].mp4
+Pig (2021) [1080p].mkv
 Twisters (2024) [1080p].mp4
 Two Weeks Notice (2002)[1080p].mp4
 UFC 310 Pantoja vs Asakura [1080p].mkv
@@ -1466,6 +1474,7 @@ Under Fire (2025) [1080p].mp4
 Utopia (2024) [1080p].mkv
 V H S Beyond (2024) [1080p].mp4
 Venom The Last Dance (2024) [1080p].mp4
+Verity (2026) [1080p].mkv
 Voicemails For Isabelle (2026) [1080p].mp4
 Waitress (2007) [1080p].mkv
 Warfare (2025) [1080p].mp4
@@ -1493,14 +1502,17 @@ The Devil Wears Prada (2006) [1080p].mp4
 The Devil Wears Prada 2 (2026) [1080p].mkv
 The Devils Mouth (2026) [1080p].mkv
 The Dink (2026) [1080p].mkv
+The Dog Stars (2026) [1080p].mp4
 The Electric State (2025) [1080p].mkv
 The End Of Oak Street (2026) [1080p].mp4
 The Fall Guy (2024)  [4K] .mkv
+The Family Man (2000) [1080p].mkv
 The Family Stone (2005) [1080p].mkv
 The Fantastic Four First Steps (2025) [1080p].mp4
 The Forbidden Kingdom (2008) [1080p] .mp4
 The Full Monty (1997) [1080p].mp4
 Bruce Almighty (2003) [1080p].mp4
+Buddy (2026) [1080p].mkv
 Captain America Brave New World (2025) [1080p].mkv
 Captain Fantastic (2016) [1080p].mp4
 Casper (1995)  [1080p].mkv
@@ -1516,8 +1528,10 @@ Cleaner (2025) [1080p].mp4
 Click (2006) [1080p].mp4
 Colin Jost Michael Che Present New York After Dark (2024) [1080p].mp4
 Collateral (2004) [1080p].mp4
+Conair (1997) [1080p].mp4
 Conclave (2024) [1080p].mp4
 Cool Runnings (1993) [1080p].mp4
+Coyote Vs Acme (2026) [1080p].mp4
 Crazy Rich Asians (2018) [1080p].mp4
 Dallas Buyers Club (2013) [1080p].mp4
 Damaged (2024) [1080p].mkv
@@ -1534,26 +1548,12 @@ Justice League Crisis On Infinite Earths Part Three (2024) [1080p].mp4
 Karate Kid Legends (2025) [1080p].mp4
 Kung Fu Games (2024) [720p].mp4
 Land of Bad (2024) [1080p].mp4
-Last Breath (2025) [1080p].mp4
-Les Miserables (2012) [1080p].mp4
-Leviticus (2026) [1080p].mp4
-Lord of War (2005) [1080p].mp4
-Love Actually (2003) Remastered [1080p].mkv
-Love Actually (2003) [1080p].mp4
-Love Hurts (2025) [1080p].mp4
-Love Jones (1997) [1080p].jpg
-Love Jones (1997) [1080p].mp4
-Love, Rosie (2014) [1080p].mp4
-Luce (2019) [1080p].mp4
-Ma (2019) [1080p].mp4
-Madame Web (2024) [1080p].mkv
-Maid In Manhattan (2002) [1080p].mp4
-Mamma Mia! (2008) [1080p].mp4
-Mamma Mia! Here We Go Again (2018) [1080p].mp4
 Popeye The Slayer Man (2025) [1080p].mkv
 Practical Magic 2 (2026) [1080p].mkv
+Practical Magic 2 (2026) [1080p].mp4
 Project Hail Mary (2026) IMAX [1080p].mp4
 Psycho Therapy The Shallow Tale Of A Writer Who Decided To Write About A Serial Killer (2024) [1080].mp4
+Raising Arizona (1987) [1080p].mkv
 Raising Helen (2004) [1080p].mp4
 Rebel Moon Part Two The Scargiver (2024)[1080p].mkv
 Reign of Fire (2002) [1080p].mp4
@@ -1568,12 +1568,14 @@ RocketMan (1997) [1080p].mp4
 Role Play (2024) [1080p].mkv
 Rumours (2024) [1080p].mp4
 Runner (2026) [1080p].mkv
+Runner (2026) [1080p].mp4
 Scary Movie Extended Cut (2026) [1080p].mkv
 Send Help (2026) [1080p].mp4
 Flight Risk (2025) [1080p].mp4
 Fog Of War (2025) [1080p].mp4
 Fools Rush In (1997) [1080p].mp4
 Force Of Nature The Dry 2 (2024) [1080p].mkv
+Forgotten Island (2026) [1080p].mp4
 Forrest Gump (1994) [1080p].mp4
 Fountain Of Youth (2025) [1080p].mp4
 Frankenstein (2025) [1080p].mp4
@@ -1639,6 +1641,7 @@ Hokum (2026) [1080p].mp4
 Holes (2003)[1080p].mp4
 Holland (2025) [1080p].mp4
 Honey Dont (2025) [1080p].mp4
+Hope (2026) [1080p].mkv
 How To Make A Killing (2026) [1080p].mp4
 How To Train Your Dragon (2025) [1080p].mp4
 I Now Pronounce You Chuck and Larry (2007) [1080p].mp4
@@ -1695,6 +1698,22 @@ IndexerVolumeGuid
 WPSettings.dat
 Terry Pratchett's Hogfather (2006) [1080p].mp4
 The Apprentice (2024) [1080p].mp4
+Leaving Las Vegas (1995) REMASTERED [1080p].mkv
+Les Miserables (2012) [1080p].mp4
+Leviticus (2026) [1080p].mp4
+Lord of War (2005) [1080p].mp4
+Love Actually (2003) Remastered [1080p].mkv
+Love Actually (2003) [1080p].mp4
+Love Hurts (2025) [1080p].mp4
+Love Jones (1997) [1080p].jpg
+Love Jones (1997) [1080p].mp4
+Love, Rosie (2014) [1080p].mp4
+Luce (2019) [1080p].mp4
+Ma (2019) [1080p].mp4
+Madame Web (2024) [1080p].mkv
+Maid In Manhattan (2002) [1080p].mp4
+Mamma Mia! (2008) [1080p].mp4
+Mamma Mia! Here We Go Again (2018) [1080p].mp4
 1000 Ways to Die S01E01 Life Will Kill You.avi
 1000 Ways to Die S01E02 Hard Lives, Easy Deaths.avi
 1000 Ways to Die S02E01 Unforced Errors.avi
@@ -11044,6 +11063,7 @@ Iron Man (2008) [720p].mp4
 Iron Man II (2010) [720p].mkv
 Iron Man 3 (2013) [720p].mp4
 Shang-Chi And The Legend Of The Ten Rings (2021) [1080p].mp4
+Spider-Man Brand New Day (2026) [1080p].mkv
 Spider-Man Homecoming (2017) [720p].mp4
 Spider-Man No Way Home (2021) [1080p].mp4
 The Avengers (2012) [720p].mp4
@@ -11738,6 +11758,63 @@ Heated Rivalry (2025) S01E03 - Hunter [1080p].mkv
 Heated Rivalry (2025) S01E04 - Rose [1080p].mkv
 Heated Rivalry (2025) S01E05 - I'll Believe in Anything [1080p].mkv
 Heated Rivalry (2025) S01E06 - The Cottage [1080p].mkv
+Hell On Wheels S01E01 Pilot [1080p].mkv
+Hell On Wheels S01E02 Immoral Mathematics [1080p].mkv
+Hell On Wheels S01E03 A New Birth of Freedom [1080p].mkv
+Hell On Wheels S01E04 Jamais je ne t'oublierai [1080p].mkv
+Hell On Wheels S01E05 Bread and Circuses [1080p].mkv
+Hell On Wheels S01E06 Pride, Pomp and Circumstance [1080p].mkv
+Hell On Wheels S01E07 Revelations [1080p].mkv
+Hell On Wheels S01E08 Derailed [1080p].mkv
+Hell On Wheels S01E09 Timshel [1080p].mkv
+Hell On Wheels S01E10 God of Chaos [1080p].mkv
+Hell On Wheels S02E01 [1080p].mkv
+Hell On Wheels S02E02 [1080p].mkv
+Hell On Wheels S02E03 [1080p].mkv
+Hell On Wheels S02E04 [1080p].mkv
+Hell On Wheels S02E05 [1080p].mkv
+Hell On Wheels S02E06 [1080p].mkv
+Hell On Wheels S02E07 [1080p].mkv
+Hell On Wheels S02E08 [1080p].mkv
+Hell On Wheels S02E09 [1080p].mkv
+Hell On Wheels S02E10 [1080p].mkv
+Hell On Wheels S03E01 [1080p].mkv
+Hell On Wheels S03E02 [1080p].mkv
+Hell On Wheels S03E03 [1080p].mkv
+Hell On Wheels S03E04 [1080p].mkv
+Hell On Wheels S03E05 [1080p].mkv
+Hell On Wheels S03E06 [1080p].mkv
+Hell On Wheels S03E07 [1080p].mkv
+Hell On Wheels S03E08 [1080p].mkv
+Hell On Wheels S03E09 [1080p].mkv
+Hell On Wheels S03E10 [1080p].mkv
+Hell On Wheels S04E01 [1080p].mkv
+Hell On Wheels S04E02 [1080p].mkv
+Hell On Wheels S04E03 [1080p].mkv
+Hell On Wheels S04E04 [1080p].mkv
+Hell On Wheels S04E05 [1080p].mkv
+Hell On Wheels S04E06 [1080p].mkv
+Hell On Wheels S04E07 [1080p].mkv
+Hell On Wheels S04E08 [1080p].mkv
+Hell On Wheels S04E09 [1080p].mkv
+Hell On Wheels S04E10 [1080p].mkv
+Hell On Wheels S04E11 [1080p].mkv
+Hell On Wheels S04E12 [1080p].mkv
+Hell On Wheels S04E13 [1080p].mkv
+Hell On Wheels S05E01 [1080p].mkv
+Hell On Wheels S05E02 [1080p].mkv
+Hell On Wheels S05E03 [1080p].mkv
+Hell On Wheels S05E04 [1080p].mkv
+Hell On Wheels S05E05 [1080p].mkv
+Hell On Wheels S05E06 [1080p].mkv
+Hell On Wheels S05E07 [1080p].mkv
+Hell On Wheels S05E08 [1080p].mkv
+Hell On Wheels S05E09 [1080p].mkv
+Hell On Wheels S05E10 [1080p].mkv
+Hell On Wheels S05E11 [1080p].mkv
+Hell On Wheels S05E12 [1080p].mkv
+Hell On Wheels S05E13 [1080p].mkv
+Hell On Wheels S05E14 [1080p].mkv
 King Of The Hill S14E01 [1080p].mkv
 King Of The Hill S14E02 [1080p].mkv
 King Of The Hill S14E03 [1080p].mkv

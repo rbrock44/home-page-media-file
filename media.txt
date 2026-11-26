@@ -1367,6 +1367,7 @@ Snow White And The Seven Samurai (2024) [1080p] .mp4
 Something Borrowed (2011) [1080p].mp4
 Son In Law (1993) [1080p].mp4
 Song Sung Blue (2025) [1080p].mp4
+The Last Temptation Of Becky (2026) [1080p].mkv
 The Legend of Aang The Last Airbender (2026) [1080p].mkv
 The Long Walk (2025) [1080p].mp4
 The Lorax (2012)[1080p].mkv
@@ -1376,22 +1377,10 @@ The Mummy (1999) [1080p].mkv
 The Mummy (2026) [1080p].mp4
 The Mummy Returns (2001) [1080p].mp4
 The Naked Gun (2025) [1080p].mp4
+The Odyssey (2026) IMAX [1080p].mkv
 The Odyssey (2026) [1080p].mp4
 The Painter (2024) [1080p].mp4
 The Princess Diaries (2001) [1080p].mp4
-The Princess Diaries 2 Royal Engagement (2004) [1080p].mp4
-The Roast Of Tom Brady (2024) [1080p].mp4
-The Rock (1996) [1080p].mkv
-The Runner (2026) [1080p].mp4
-The Shaft (2001) [1080p].mp4
-The Sheep Detectives (2026) [1080p].mkv
-The Simpsons Yellow Mirror (2026) [1080p].mkv
-The Six Triple Eight (2024) [1080p].mp4
-The Sorcerers Apprentice (2010) [1080p].mp4
-The Sting (1973) [1080p].mp4
-The Substance (2024) [1080p].mp4
-The Thicket (2024) [720p].mkv
-The Thursday Murder Club (2025) [1080].mp4
 Avatar Aang The Last Airbender (2026) [1080p].mkv
 Azrael (2024) [1080p].mp4
 Baby Mama (2008) [1080p].mp4
@@ -1428,8 +1417,10 @@ South Park Not Suitable For Children (2023) [1080p].mkv
 The Beautician And The Beast (1997) [1080p] .mp4
 The Furious (2025) [1080p].mkv
 The Ladykillers (2004) [1080p].mkv
+The Princess Diaries 2 Royal Engagement (2004) [1080p].mp4
 The Ugly Stepsister (2025) [1080p].mp4
 Twister (1996) [1080p].mkv
+We Beat The Dream Team (2025) [1080p].mp4
 Goodrich (2024) [1080p].mp4
 Grafted (2024) [1080p].mp4
 Greenland (2020) [1080p].mp4
@@ -1481,19 +1472,6 @@ Waitress (2007) [1080p].mkv
 Warfare (2025) [1080p].mp4
 Warrior (2011) [1080p].mkv
 We Are Marshall (2006).mkv
-We Beat The Dream Team (2025) [1080p].mp4
-When Harry Met Sally (1989) [1080p].mp4
-Wicked (2024) [1080p].mkv
-Wicked For Good (2025) [1080p].mkv
-Wish (2023) [1080p].mkv
-Wolfs (2024) [1080p].mp4
-Woman Of The Hour (2023) [1080p].mp4
-Wuthering Heights [2026] [1080p].mkv
-Year 10 (2024) [1080p].mp4
-You Dont Mess with the Zohan (2008) [1080p].mp4
-Young Washington (2026) [1080p].mp4
-Youre Cordially Invited (2025) [1080p].mkv
-Zombie Repellent (2025) [1080p].mp4
 The Beekeeper (2024) [1080p].mkv
 The Best Christmas Pageant Ever (2024) [108op].mp4
 The Bricklayer (2023) [1080p].mkv
@@ -1573,6 +1551,7 @@ Runner (2026) [1080p].mkv
 Runner (2026) [1080p].mp4
 Scary Movie Extended Cut (2026) [1080p].mkv
 Send Help (2026) [1080p].mp4
+Fjord (2026) [1080p].mp4
 Flight Risk (2025) [1080p].mp4
 Fog Of War (2025) [1080p].mp4
 Fools Rush In (1997) [1080p].mp4
@@ -1663,6 +1642,7 @@ Black Bag (2025) [1080p].mp4
 Bleeding Love (2023) [1080p].mp4
 Blink Twice (2024) [1080p].mp4
 Borderlands (2024) [1080p].mp4
+Breeder (2026) [1080p].mkv
 Bride Wars (2009) [1080p].mp4
 Bridesmaids (2011) [1080p].mp4
 Bridget Jones Mad About The Boy (2025) [1080p].mp4
@@ -1689,6 +1669,7 @@ Spaceman (2024) [1080p].mkv
 Speak no Evil (2024)[1080p].mkv
 Spider Island (2026) [1080p].mkv
 Spy Game (2001) [1080p].mkv
+Steps (2026) [1080p].mp4
 Sting (2024) [1080p].mkv
 Stranger in the Woods (2024) [1080p].mkv
 Subservience (2024) [1080p].mp4
@@ -1714,9 +1695,37 @@ Love, Rosie (2014) [1080p].mp4
 Luce (2019) [1080p].mp4
 Ma (2019) [1080p].mp4
 Madame Web (2024) [1080p].mkv
+Madden (2026) [1080p].mkv
 Maid In Manhattan (2002) [1080p].mp4
 Mamma Mia! (2008) [1080p].mp4
 Mamma Mia! Here We Go Again (2018) [1080p].mp4
+The Roast Of Tom Brady (2024) [1080p].mp4
+The Rock (1996) [1080p].mkv
+The Runner (2026) [1080p].mp4
+The Shaft (2001) [1080p].mp4
+The Sheep Detectives (2026) [1080p].mkv
+The Simpsons Yellow Mirror (2026) [1080p].mkv
+The Six Triple Eight (2024) [1080p].mp4
+The Social Reckoning (2026) [1080p].mp4
+The Sorcerers Apprentice (2010) [1080p].mp4
+The Sting (1973) [1080p].mp4
+The Substance (2024) [1080p].mp4
+The Thicket (2024) [720p].mkv
+The Thursday Murder Club (2025) [1080].mp4
+When Harry Met Sally (1989) [1080p].mp4
+Wicked (2024) [1080p].mkv
+Wicked For Good (2025) [1080p].mkv
+Wicker (2026) [1080p].mkv
+Wish (2023) [1080p].mkv
+Wolfs (2024) [1080p].mp4
+Woman Of The Hour (2023) [1080p].mp4
+Wuthering Heights [2026] [1080p].mkv
+Year 10 (2024) [1080p].mp4
+You Can See Everything (2026) [1080p].mkv
+You Dont Mess with the Zohan (2008) [1080p].mp4
+Young Washington (2026) [1080p].mp4
+Youre Cordially Invited (2025) [1080p].mkv
+Zombie Repellent (2025) [1080p].mp4
 1000 Ways to Die S01E01 Life Will Kill You.avi
 1000 Ways to Die S01E02 Hard Lives, Easy Deaths.avi
 1000 Ways to Die S02E01 Unforced Errors.avi
